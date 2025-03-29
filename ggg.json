@@ -1,0 +1,193 @@
+{
+  "TODO": [],
+  "Goals": [
+    {
+      "Name": "_id",
+      "Value": "ObjectId"
+    },
+    {
+      "Name": "ID",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Task",
+      "Value": "String"
+    }
+  ],
+  "ExerciseType": [
+    {
+      "Name": "_id",
+      "Value": "ObjectId"
+    },
+    {
+      "Name": "Exercise_Type_Id",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Exercise Type",
+      "Value": "String"
+    }
+  ],
+  "ResultBase": [
+    {
+      "Name": "_id",
+      "Value": "ObjectId"
+    },
+    {
+      "Name": "Exercise Name",
+      "Value": "String"
+    },
+    {
+      "Name": "Exercise Type",
+      "Value": "String"
+    },
+    {
+      "Name": "Action",
+      "Value": "String"
+    },
+    {
+      "Name": "Full Match",
+      "Value": "Boolean"
+    },
+    {
+      "Name": "Name Match",
+      "Value": "String"
+    },
+    {
+      "Name": "Match",
+      "Value": "Boolean"
+    },
+    {
+      "Name": "Rank",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Searched Exercise",
+      "Value": "String"
+    }
+  ],
+  "Exercise_Log": [
+    {
+      "Name": "_id",
+      "Value": "ObjectId"
+    },
+    {
+      "Name": "Exercise_ID",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Exercise_Time",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Exercise_Date",
+      "Value": "DateTime"
+    },
+    {
+      "Name": "Calorie_Count",
+      "Value": "Int32"
+    }
+  ],
+  "Exercises": [
+    {
+      "Name": "_id",
+      "Value": "ObjectId"
+    },
+    {
+      "Name": "Exercise_Type_Id",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Exercise_ID",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Exercise Name",
+      "Value": "String"
+    },
+    {
+      "Name": "Exercise_Time",
+      "Value": "Int32"
+    }
+  ],
+  "Food_Diary": [
+    {
+      "Name": "_id",
+      "Value": "ObjectId"
+    },
+    {
+      "Name": "Meal",
+      "Value": "String"
+    },
+    {
+      "Name": "Meal_Description",
+      "Value": "String"
+    },
+    {
+      "Name": "Calorie_Count",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Consumption_Date",
+      "Value": "DateTime"
+    }
+  ],
+  "Tasks": [
+    {
+      "Name": "_id",
+      "Value": "ObjectId"
+    },
+    {
+      "Name": "Time",
+      "Value": "DateTime"
+    },
+    {
+      "Name": "Task",
+      "Value": "Int32"
+    }
+  ],
+  "LawBase": [
+    {
+      "Name": "_id",
+      "Value": "ObjectId"
+    },
+    {
+      "Name": "Action",
+      "Value": "String"
+    },
+    {
+      "Name": "Match_Case",
+      "Value": "String"
+    },
+    {
+      "Name": "Rank",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Exercise_Type_ID",
+      "Value": "Int32"
+    }
+  ],
+  "Routines": [
+    {
+      "Name": "_id",
+      "Value": "ObjectId"
+    },
+    {
+      "Name": "Routine_id",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Exercise_ID",
+      "Value": "Int32"
+    },
+    {
+      "Name": "Exercise_Name",
+      "Value": "String"
+    },
+    {
+      "Name": "Exercise_Time",
+      "Value": "Int32"
+    }
+  ]
+}
