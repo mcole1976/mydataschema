@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "61512b29683d680ebb935d59"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise Type": "Upper Body"
+},
+{
+  "_id": {
+    "$oid": "61512b29683d680ebb935d5e"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise Type": "Legs"
+},
+{
+  "_id": {
+    "$oid": "61512b29683d680ebb935d62"
+  },
+  "Exercise_Type_Id": 3,
+  "Exercise Type": "Abs"
+},
+{
+  "_id": {
+    "$oid": "61512b29683d680ebb935d65"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise Type": "Full Body"
+}]

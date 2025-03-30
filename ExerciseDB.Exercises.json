@@ -1,0 +1,2871 @@
+[{
+  "_id": {
+    "$oid": "615c471d0b271d85bb439398"
+  },
+  "Exercise_Type_Id": 3,
+  "Exercise_ID": 9,
+  "Exercise Name": "10 Min Fat Burn Abs",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "615cef78810f7a4af4f94842"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 12,
+  "Exercise Name": "Legs 11",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "615d9638810f7a4af4f9487b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 16,
+  "Exercise Name": "10 minute Full Body Workout",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "615f801f5a7e2b310d2a597b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 17,
+  "Exercise Name": "10 Minute Arms Core",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "6161b066df5a398806806632"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 20,
+  "Exercise Name": "15 Minute Arms and Shoulders",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "6161d729df5a3988068066c6"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 23,
+  "Exercise Name": "15 Minute Intense Legs",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "61658190c81195c844170ba8"
+  },
+  "Exercise_Type_Id": 3,
+  "Exercise_ID": 30,
+  "Exercise Name": "15 Minutte Abs",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "6167918bc62761e9c84ceada"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 41,
+  "Exercise Name": "10 Minute Fat Burn Part 1",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61679683c62761e9c84ceaef"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 42,
+  "Exercise Name": "10 Minute Fat Burn Part 2",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "616799afc62761e9c84ceb06"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 43,
+  "Exercise Name": "10 Minute Fat Burn Part 3Dr",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61681e19670a3c5a31cc206a"
+  },
+  "Exercise_Type_Id": 3,
+  "Exercise_ID": 44,
+  "Exercise Name": "20 Min Cardio Abs Pt 1",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "61682301670a3c5a31cc2080"
+  },
+  "Exercise_Type_Id": 3,
+  "Exercise_ID": 45,
+  "Exercise Name": "20 mins Cardio Abs Part 2",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "616c5626606bbcee24345666"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 49,
+  "Exercise Name": "20 Minute Back and Bicep",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "616c5a959d4d556ff7cd5298"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 50,
+  "Exercise Name": "10 Minute AP Upper Body",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "616c5eb99d4d556ff7cd52ba"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 51,
+  "Exercise Name": "10 Minute Chest",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "616c9aedab1fdbbde85dcd1d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 52,
+  "Exercise Name": "10 Minute Calorie Killer",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "616e25ec0178da10dabbf9aa"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 56,
+  "Exercise Name": "20 Minute Full Legs",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "616e2a530178da10dabbf9e8"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 57,
+  "Exercise Name": "10 Minute Full Legs",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61740ac88918167f62e6e240"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 58,
+  "Exercise Name": "10 Minute Core",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "6175801a2170a768126aaf74"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 59,
+  "Exercise Name": "10 Minute FB Strength and Burn Pt 1",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "617586132170a768126aaf8a"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 60,
+  "Exercise Name": "10 Minute FB Strength and Burn Pt 2",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61758eab15103df901a05329"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 61,
+  "Exercise Name": "10 Minute FB Strength and Burn Pt 3",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "618c7fe38a4ec48a0503f75b"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 86,
+  "Exercise Name": "10 Minute Killer Leg A ",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "618c84828a4ec48a0503f772"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 87,
+  "Exercise Name": "10 Minute Killer Leg B",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "618c89d48a4ec48a0503f78d"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 88,
+  "Exercise Name": "10 Minute Killer Leg C",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "618dde33014a44e0d1a1255a"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 90,
+  "Exercise Name": "15 Minute Cardio A",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "618de5be014a44e0d1a12580"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 91,
+  "Exercise Name": "15 Minute Cardio B",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "618e9e17bd153f77efe711ee"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 92,
+  "Exercise Name": "10 Minute Toned Arms A",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "618ea13fbd153f77efe71206"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 93,
+  "Exercise Name": "10 Minute Toned Arms B",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "6193b2195c76f38d36aa1a38"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 101,
+  "Exercise Name": "10 Minute HIIT Cardio A",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "6195015b07637896483c5fb7"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 102,
+  "Exercise Name": "10 Minute HIIT Cardio B",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "6195047807637896483c5fd3"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 103,
+  "Exercise Name": "10 Minute HIIT Cardio C",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "619dbe4e970f2b120bb5a873"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 108,
+  "Exercise Name": "5 Min Full Legs ",
+  "Exercise_Time": 5
+},
+{
+  "_id": {
+    "$oid": "619fbd19416c5cd1ca4c4315"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 113,
+  "Exercise Name": "Leg Killer Part A",
+  "Exercise_Time": 12
+},
+{
+  "_id": {
+    "$oid": "619fc2d2416c5cd1ca4c4335"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 114,
+  "Exercise Name": "Leg Killer Part B",
+  "Exercise_Time": 12
+},
+{
+  "_id": {
+    "$oid": "619fc879416c5cd1ca4c4352"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 115,
+  "Exercise Name": "Leg Killer Part C",
+  "Exercise_Time": 12
+},
+{
+  "_id": {
+    "$oid": "61a289dd652c1c91d70d6d50"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 122,
+  "Exercise Name": "10 minute FB HIIT 500k A",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61a28c2f652c1c91d70d6d67"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 123,
+  "Exercise Name": "10 minute FB HIIT 500k B",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61a28ea1652c1c91d70d6d86"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 124,
+  "Exercise Name": "10 minute FB HIIT 500k C",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61a2964f652c1c91d70d6d9e"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 125,
+  "Exercise Name": "15 Min Cardio HIIT 500k A",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "61a29c65652c1c91d70d6dbf"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 126,
+  "Exercise Name": "15 Min Cardio HIIT 500k B",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "61a98e4c0f115153869788a6"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 140,
+  "Exercise Name": "20 Minute Shoulder",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "61bf6b15166bc06aecf9d965"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 146,
+  "Exercise Name": "10 Minute Fat Brn Pt a",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61bf6d7d166bc06aecf9d980"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 147,
+  "Exercise Name": "10 Minute Fat Brn Pt B",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61bf724f166bc06aecf9d999"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 148,
+  "Exercise Name": "10 Minute Cardio HIIT Part A",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61bf7523166bc06aecf9d9b9"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 149,
+  "Exercise Name": "10 Minute Cardio HIIT Part B",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61bf7968166bc06aecf9d9d4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 150,
+  "Exercise Name": "10 Minute Cardio HIIT Part C",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61bf7e71985f88ead58f0b8d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 151,
+  "Exercise Name": "10 Minute Low Impact Fat Burn",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61bf8378985f88ead58f0ba4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 152,
+  "Exercise Name": "10 Minute Low Impact Fat Burn B",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61bf865a985f88ead58f0bbd"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 153,
+  "Exercise Name": "10 Minute Low Impact Fat Burn C",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61c1198c3e16abc6fd7003da"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 160,
+  "Exercise Name": "10 Min Abs and Cardio A",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61c11ea63e16abc6fd7003f4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 161,
+  "Exercise Name": "10 Min Abs and Cardio B",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61c121d63e16abc6fd70040c"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 162,
+  "Exercise Name": "10 Min Abs and Cardio C",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "61c127a53e16abc6fd700428"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 163,
+  "Exercise Name": "10 Min Abs and Cardio D",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "6233fee63a702bff59ae21a0"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 198,
+  "Exercise Name": "10M Upper Body with Weight",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "62360e45cd773678d950be51"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 199,
+  "Exercise Name": "10 Minute Burn Part A",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "6236137ccd773678d950be66"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 200,
+  "Exercise Name": "10 Minute Burn Part B",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "62361553cd773678d950be81"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 201,
+  "Exercise Name": "10 Minute Burn Part C",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "624a0f94ba52378f9e4eedb8"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 235,
+  "Exercise Name": "Cardio FB Pt A",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "624a150dba52378f9e4eedd0"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 236,
+  "Exercise Name": "Cardio FB Pt B",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "624a1817ba52378f9e4eedeb"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 237,
+  "Exercise Name": "Cardio FB Pt C",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "624a23f8eb179a0c45a87e6c"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 238,
+  "Exercise Name": "15M Cardio Easy Jumping",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "624a4090ee536ea196baec35"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 239,
+  "Exercise Name": "10 Minute Standing Abs",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "624a454eee536ea196baec59"
+  },
+  "Exercise_Type_Id": 3,
+  "Exercise_ID": 240,
+  "Exercise Name": "10M Waist",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "624a4ba2e37fd7a781346be0"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 241,
+  "Exercise Name": "10 Min Tabata Pt A",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "624a4fcfe37fd7a781346c0f"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 242,
+  "Exercise Name": "10 Min Tabata Pt B",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "62560d95024b7d527b9c2b60"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 263,
+  "Exercise Name": "Full Body Cardio A",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "6256100c024b7d527b9c2b79"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 264,
+  "Exercise Name": "Full Body Cardio B",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625612a0024b7d527b9c2b96"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 265,
+  "Exercise Name": "Full Body Cardio C",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "62575a97325be974a51aefbd"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 267,
+  "Exercise Name": "cg 20 min fb hiit",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "62575cff325be974a51aefee"
+  },
+  "Exercise_Type_Id": 3,
+  "Exercise_ID": 268,
+  "Exercise Name": "10 Min Ab Complex",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "6257632a325be974a51af00c"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 269,
+  "Exercise Name": "12 Min Tabata",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "6257970a6c01cfffc842111d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 271,
+  "Exercise Name": "Killer HIIT Part A",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "62579eb86c01cfffc8421138"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 272,
+  "Exercise Name": "Killer HIIT Part B",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "6257a3c052088083fc862dd1"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 273,
+  "Exercise Name": "Killer Hiit Part C",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625c74f939337a5c976ecf2a"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 276,
+  "Exercise Name": "30M Iron WO Part A",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625c7b9b39337a5c976ecf63"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 277,
+  "Exercise Name": "30M Iron Hamstring Glute",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625ca8fe39337a5c976ecf93"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 278,
+  "Exercise Name": "10 Minute NW UB Pt A",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625cad2f39337a5c976ecfac"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 279,
+  "Exercise Name": "10 Minute NW UB Pt b",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625cb15339337a5c976ecfc3"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 280,
+  "Exercise Name": "10 Minue NW UB Pt C",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625cbab5075a1947572984f7"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 281,
+  "Exercise Name": "10 M Cardio L1",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625cbffe075a194757298515"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 282,
+  "Exercise Name": "10 M Cardio L2",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625cc4de075a194757298530"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 283,
+  "Exercise Name": "10M Cardio L3",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625f45bdbe1624a797cedffb"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 286,
+  "Exercise Name": "20M Tabata HIIT",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "625f75d5b86a0874feb4bf26"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 288,
+  "Exercise Name": "mcsc",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "626f224a5e7f662a073298cc"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 298,
+  "Exercise Name": "Boxing",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "627463a03a2b27d48f93ff30"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 299,
+  "Exercise Name": "15m Run one on and off",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "627468d33a2b27d48f93ff54"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 300,
+  "Exercise Name": "15M Run One and change 2",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "62746dca3a2b27d48f93ff74"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 301,
+  "Exercise Name": "Squat and g0 10 Min",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "6274717e3f59b17800bf6115"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 302,
+  "Exercise Name": "Run n G 2mins on",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "62785b34b93855a9a18c506d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 305,
+  "Exercise Name": "20M FB Anchor live 1",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "627862f49b45c50cfdf062e4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 306,
+  "Exercise Name": "20m Boxing et al",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "62813e216a0f5f5c32f6914b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 327,
+  "Exercise Name": "Boxing mcsc 5-15 A",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "62813f226a0f5f5c32f6915e"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 328,
+  "Exercise Name": "Boxing mcsc 5-15 b",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "62813ffc6a0f5f5c32f69174"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 329,
+  "Exercise Name": "Boxing mcsc 5-15 C",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "62858cbb6a7b29505b6e7936"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 330,
+  "Exercise Name": "20 M RIP 5-18 A",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "62858cc16a7b29505b6e7960"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 331,
+  "Exercise Name": "20 M RIP 5-18 B",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "628a80babf6106a6df112a50"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 333,
+  "Exercise Name": "Killer leg Day Pt a",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "628a8782bf6106a6df112a6c"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 334,
+  "Exercise Name": "Killer leg Day Pt b",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "628a8adfbf6106a6df112a84"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 335,
+  "Exercise Name": "Killer leg Day Pt C",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "628ad52afb17232cb0c24091"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 336,
+  "Exercise Name": "15 Min Standing Cardio Pt A",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "628ad8b9fb17232cb0c240c8"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 337,
+  "Exercise Name": "15 Min Standing Cardio Pt B",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "628ae0254c41e362d0762d37"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 338,
+  "Exercise Name": "10M Intense HIIT",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "628d7a48d8242b52bf96fd48"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 339,
+  "Exercise Name": "30m UB 5-24",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "628ecaeb19279c2202f361b4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 341,
+  "Exercise Name": "nb anc 20m 5-25",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "628f8c75bb104da26b867996"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 344,
+  "Exercise Name": "Hammer Anchor",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "628f8dfd153c4291b68cf0d9"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 345,
+  "Exercise Name": "10 minute hameer and Curl Anchor",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "628f91d9861c7aea40abe3e0"
+  },
+  "Exercise_Type_Id": 3,
+  "Exercise_ID": 350,
+  "Exercise Name": "10M Crunch Anchor",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "628fcf55322a4473c28044e2"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 352,
+  "Exercise Name": "Plank Jump and Curl Anchor 30m UB",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "628fd9de322a4473c280453e"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 354,
+  "Exercise Name": "Curl and Press Anchor",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "6290342181440b6b63e980f7"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 358,
+  "Exercise Name": "Cardio Fat Burn HIIT Pt 1",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "62924decc2433962c672612d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 359,
+  "Exercise Name": "The Shuffle Anchored",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "62a004227a36d8f4087a07ce"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 360,
+  "Exercise Name": "10m Box 6-7 A",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "62a004677a36d8f4087a07fa"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 362,
+  "Exercise Name": "10m Box Shuffle Mix 6-7 B",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "62a004857a36d8f4087a0810"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 363,
+  "Exercise Name": "Body Work Mix up",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "62a12ec69e44b645585734e2"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 364,
+  "Exercise Name": "20m spinning",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "62a4d158e45ac137066536d6"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 365,
+  "Exercise Name": "30m bw 6-11",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "62a4da5ee45ac13706653714"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 366,
+  "Exercise Name": "Leg 16 Squat a thon",
+  "Exercise_Time": 0
+},
+{
+  "_id": {
+    "$oid": "62af6171277c029f1776d314"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 367,
+  "Exercise Name": "30M with Lukey",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "62c07aabf4312cfea5e8a81a"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 368,
+  "Exercise Name": "RIP anc 7-1",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "62c08027f4312cfea5e8a844"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 369,
+  "Exercise Name": "alt bc ub",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "62c3470b2f2657f332e38b34"
+  },
+  "Exercise_Type_Id": 3,
+  "Exercise_ID": 370,
+  "Exercise Name": "tc ab anch 7-4",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "62c347272f2657f332e38b53"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 371,
+  "Exercise Name": "15 m lg",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "62c34b8b2f2657f332e38b88"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 373,
+  "Exercise Name": "7-4 anc lunge legs",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "62c8d706b201e5798c8e08ca"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 374,
+  "Exercise Name": "15m skipping anc 7-8",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "62ce09bafc7ca97b4c4a8b39"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 375,
+  "Exercise Name": "20 CE Anc 7-12",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "62ce13ccfc7ca97b4c4a8b63"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 376,
+  "Exercise Name": "15 m ub 712 anc alt bc",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "62d0a5c6034fdea077578594"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 378,
+  "Exercise Name": "20m ahc anc ub 7-14",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "62d225f27c3e2a23b2833fdd"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 379,
+  "Exercise Name": "15m anc",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "62d8a130d03bb3a6563b75dd"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 380,
+  "Exercise Name": "20m Anch 7-20",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "62d8a71dc6274292845f2531"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 381,
+  "Exercise Name": "20m anc 7-20 ex b",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "62d9ee918b650dfcf443a813"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 382,
+  "Exercise Name": "ub anch",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "62d9f2df8b650dfcf443a832"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 383,
+  "Exercise Name": "15m anc 2",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "62d9f7308b650dfcf443a851"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 384,
+  "Exercise Name": "7-21 anc",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "633cca9c2959848295ca6e9a"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 385,
+  "Exercise Name": "af anc 10-4",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "633ccab42959848295ca6ec3"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 386,
+  "Exercise Name": "jump ce 10-4 fb",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "633ccacb2959848295ca6eed"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 387,
+  "Exercise Name": "h=jumo ce fb anc",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "633ccfda2959848295ca6f17"
+  },
+  "Exercise_Type_Id": 3,
+  "Exercise_ID": 388,
+  "Exercise Name": "abs anc 10-4",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "633e2e667978176d86f9e5a5"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 389,
+  "Exercise Name": "10m fb 10-5",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "644a94f38b0e5c6fef560eba"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 390,
+  "Exercise Name": "20m rnd b and k",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "644a950c8b0e5c6fef560ee4"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 391,
+  "Exercise Name": "bicep 20m rnd",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "644a952f8b0e5c6fef560f0d"
+  },
+  "Exercise_Type_Id": 2,
+  "Exercise_ID": 392,
+  "Exercise Name": "legs 30m",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "6473926a397be8ec4437117d"
+  },
+  "Exercise_Type_Id": 1,
+  "Exercise_ID": 393,
+  "Exercise Name": "10 mins ub 05 28",
+  "Exercise_Time": 10
+},
+{
+  "_id": {
+    "$oid": "654ae46fa91df5c6d98a66d4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 394,
+  "Exercise Name": "Full Body Start Again",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "654aecc5e9c89708583361dc"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 395,
+  "Exercise Name": "Daily Cycle",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "654aff99dafb1c7798987bfe"
+  },
+  "Exercise_ID": 500,
+  "Exercise_Time": 60,
+  "Exercise_Type_Id": 4,
+  "Exercise Name": "Daily Cycle"
+},
+{
+  "_id": {
+    "$oid": "655570213303109ddca9c4f6"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 600,
+  "Exercise Name": "Football",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "657dde980cfeae9952ea2640"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 700,
+  "Exercise Name": "Golf",
+  "Exercise_Time": 80
+},
+{
+  "_id": {
+    "$oid": "659b735d19ea5fe524b2aecb"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 800,
+  "Exercise Name": "Walk",
+  "Exercise_Time": 80
+},
+{
+  "_id": {
+    "$oid": "65fa57e1ec2185fdf83002d9"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 801,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "65fb775b6b5edf84bac87254"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 802,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "65fcbe71a96edb21b997d937"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 803,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "65fe1c61d867031c3376143d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 804,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6604c44f3e287b47370ecbcc"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 805,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6604c45f3e287b47370ecbce"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 806,
+  "Exercise Name": "Football",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "660b402e62735ed3e5a274da"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 807,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 80
+},
+{
+  "_id": {
+    "$oid": "660dfa3727570e7b278ca05c"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 808,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 80
+},
+{
+  "_id": {
+    "$oid": "660dfa3b27570e7b278ca05e"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 809,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 80
+},
+{
+  "_id": {
+    "$oid": "66114bedcc1a9967be186e72"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 810,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66114bf1cc1a9967be186e74"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 811,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66135de8cd578a62b5643cc7"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 812,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 180
+},
+{
+  "_id": {
+    "$oid": "6615d1e2d0344bebef6c92ad"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 813,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66174c8d0e10dd3a11f2c543"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 814,
+  "Exercise Name": "Football",
+  "Exercise_Time": 40
+},
+{
+  "_id": {
+    "$oid": "66174cb10e10dd3a11f2c545"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 815,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66188222640fa13e5818f4bf"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 816,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "661bf227a25f6b2f9d67fc86"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 817,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 120
+},
+{
+  "_id": {
+    "$oid": "661dafaaa25f6b2f9d67fc8c"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 818,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 120
+},
+{
+  "_id": {
+    "$oid": "661dafd0a25f6b2f9d67fc8e"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 819,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "661f208a7f1ef591bc8dc4a4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 820,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6620909cdb61a79093a5217e"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 821,
+  "Exercise Name": "Football",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "662090b1db61a79093a52180"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 822,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6621bc7d4c1d79a8cccdfb5a"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 823,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66286f0ee951c7bba8177696"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 824,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "6629b0290278cfa4793116e1"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 825,
+  "Exercise Name": "Golf",
+  "Exercise_Time": 90
+},
+{
+  "_id": {
+    "$oid": "6629b0370278cfa4793116e3"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 826,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6629b0590278cfa4793116e5"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 827,
+  "Exercise Name": "Walk",
+  "Exercise_Time": 40
+},
+{
+  "_id": {
+    "$oid": "662aed17076db2849a26f64c"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 828,
+  "Exercise Name": "Walking",
+  "Exercise_Time": 90
+},
+{
+  "_id": {
+    "$oid": "662aed28076db2849a26f64e"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 829,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 150
+},
+{
+  "_id": {
+    "$oid": "662aed41076db2849a26f650"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 830,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": -130
+},
+{
+  "_id": {
+    "$oid": "662d2aae84186dd8f51c6b7b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 831,
+  "Exercise Name": "Walking",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66367ac95a400206d0bbf6f8"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 832,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "66367ad45a400206d0bbf6fa"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 833,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6639647eb63ec0a19cff418f"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 834,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "663abb0db63ec0a19cff4191"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 835,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "663abb23b63ec0a19cff4193"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 836,
+  "Exercise Name": "Walking",
+  "Exercise_Time": 300
+},
+{
+  "_id": {
+    "$oid": "663c0802b63ec0a19cff4195"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 837,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "663d7aff747e0120840604ef"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 838,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6640353e2c06b545ea87ad40"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 839,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 40
+},
+{
+  "_id": {
+    "$oid": "6640354f2c06b545ea87ad42"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 840,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6642b7792c06b545ea87ad49"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 841,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6642b7a32c06b545ea87ad4b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 842,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6643fe9d2c06b545ea87ad4d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 843,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6646a47f7c426b8bfb355504"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 844,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6646a4827c426b8bfb355506"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 845,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6648abfd7c426b8bfb35550b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 846,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 45
+},
+{
+  "_id": {
+    "$oid": "6648ac117c426b8bfb35550d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 847,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 120
+},
+{
+  "_id": {
+    "$oid": "664ab64a7c426b8bfb355514"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 848,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 120
+},
+{
+  "_id": {
+    "$oid": "664c0d2e7c426b8bfb355516"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 849,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "664d2a74881e790f3bb0adcc"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 850,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "664ec355881e790f3bb0adce"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 851,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "664ec388881e790f3bb0add0"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 852,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 90
+},
+{
+  "_id": {
+    "$oid": "664fef25de21ac6c77c63452"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 853,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66520d52de21ac6c77c6345a"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 854,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "666288a84b2d154c70b06a55"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 855,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 120
+},
+{
+  "_id": {
+    "$oid": "6667b9bdfa2535fc8e295760"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 856,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66691da8a16906bc3b177c8d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 857,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6685e956c8101e713a4913ce"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 858,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "668af848910849ec950bad74"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 859,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "668c8a14ca282024a4e8926c"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 860,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "668ddc5af25c95e4354d6a11"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 861,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "669073c4d24a3d85a8931d20"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 862,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "669073c8d24a3d85a8931d22"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 863,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6691de0ac45045287576be31"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 864,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6695b5f9446ebf37da27bf97"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 865,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6696fe2a0b0d736d8bc81ab9"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 866,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6699011b246b24ec41b747d5"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 867,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6699011e246b24ec41b747d7"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 868,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "669bf8bdc05e2c1bb14ede2a"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 869,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "669bf8c1c05e2c1bb14ede2c"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 870,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "669feffd45618766e4b26d3d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 871,
+  "Exercise Name": "BX fb -7 24",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "66bc0d80c02553a4cf526ee1"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 872,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66bc0d80c02553a4cf526ee0"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 883,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66bc0d87c02553a4cf526ee4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 873,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66c55a4f2a03bb29a75d27f7"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 874,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66cff8a76b146f72278fe6af"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 875,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66cff8b26b146f72278fe6b1"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 876,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66d12b52f51d336dbb57a4b0"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 877,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66e0f43511026f51ece5ec92"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 878,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66e0f43511026f51ece5ec91"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 884,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66e39f66d64b9e9e2e2bb0df"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 879,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66e39f72d64b9e9e2e2bb0e1"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 880,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66e39f82d64b9e9e2e2bb0e3"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 881,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 120
+},
+{
+  "_id": {
+    "$oid": "66ec3f14354b7cb517e7ae8e"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 882,
+  "Exercise Name": "Spin Class",
+  "Exercise_Time": 15
+},
+{
+  "_id": {
+    "$oid": "66ecade9076499aa21b71910"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 885,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "66ed9577076499aa21b71913"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 886,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "66f326e1a1577b510791fc1f"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 887,
+  "Exercise Name": "30m Spin",
+  "Exercise_Time": 30
+},
+{
+  "_id": {
+    "$oid": "66f429fda92ce70d6d33cb8e"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 888,
+  "Exercise Name": "Bear C 20 min rando",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "66f73a7bfe0c431a6b5bdab4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 889,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 50
+},
+{
+  "_id": {
+    "$oid": "66fb4cdde46d532af68faaa8"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 890,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66fc9ec9e46d532af68faaad"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 891,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66fc9ee2e46d532af68faaaf"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 892,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "66fdfff1e46d532af68faab1"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 893,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 90
+},
+{
+  "_id": {
+    "$oid": "66ff4df8393adf906621f314"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 894,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67049ce0667cceefef7b1841"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 895,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6705cd6d667cceefef7b1843"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 896,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67071f37b86d831bcbf8d247"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 897,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 90
+},
+{
+  "_id": {
+    "$oid": "670881d7877331749557dd6d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 898,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "670a84b1877331749557dd6f"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 899,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "670dcc15877331749557dd7b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 900,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "670ed9a046724a6ae51d7703"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 901,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 80
+},
+{
+  "_id": {
+    "$oid": "67105b6046724a6ae51d7705"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 902,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 80
+},
+{
+  "_id": {
+    "$oid": "67105b8a46724a6ae51d7707"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 903,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 40
+},
+{
+  "_id": {
+    "$oid": "6711cb9583453a81469239d0"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 904,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 75
+},
+{
+  "_id": {
+    "$oid": "6711cba683453a81469239d2"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 905,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 40
+},
+{
+  "_id": {
+    "$oid": "671546f0af326125b377af19"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 906,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "671868d9c02d6819d341515b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 907,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "671868dec02d6819d341515d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 908,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "671868ecc02d6819d341515f"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 909,
+  "Exercise Name": "Football",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "671af049c02d6819d3415163"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 910,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "671af04dc02d6819d3415165"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 911,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "671be6dac02d6819d341516b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 912,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 70
+},
+{
+  "_id": {
+    "$oid": "673411fe2506ce6288d1b828"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 913,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "673557a36d2ad81929257517"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 914,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "673557b36d2ad81929257519"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 915,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67356055807a32be8598ce0f"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 916,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6736ad42807a32be8598ce17"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 917,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6737f1598e507e47f1590c78"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 918,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "673be8b3f642a01a018da866"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 919,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "673d3011980a6fdaa6c1c440"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 920,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "673e82449d55d019b72e6422"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 921,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "673fda0772003545d14aecfa"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 922,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 50
+},
+{
+  "_id": {
+    "$oid": "674515df2d28e3e89739c595"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 923,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "674666a32d28e3e89739c597"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 924,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6750fc4ec452fb2ae5308479"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 925,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67524e2f107a68e3baed84c3"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 926,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67538e607925d651d2124c52"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 927,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6757c604260574d664394150"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 928,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6758f71c260574d664394152"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 929,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "675b82bfd159fd47082cdfc4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 930,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6760c76e597cc558d2b2b66f"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 931,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6762136e3520859a3b695b22"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 932,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 50
+},
+{
+  "_id": {
+    "$oid": "67638a5318520d20004d64b0"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 933,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "6764b61818520d20004d64b2"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 934,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "6777295b1d6def92e4b40ac2"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 935,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "677729681d6def92e4b40ac4"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 936,
+  "Exercise Name": "Walk",
+  "Exercise_Time": 25
+},
+{
+  "_id": {
+    "$oid": "67788d02347d060060edf722"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 937,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67799b38b2665f4d78d9dc46"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 938,
+  "Exercise Name": "Walk",
+  "Exercise_Time": 50
+},
+{
+  "_id": {
+    "$oid": "678af05fd27bce175a392cde"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 939,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 65
+},
+{
+  "_id": {
+    "$oid": "6797872082087f6451ad5688"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 940,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67997d20cf38ff1cf28a8581"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 941,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 550
+},
+{
+  "_id": {
+    "$oid": "67a180c3096555c462da378b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 942,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67a4326d000aa632725f7b4b"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 943,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 25
+},
+{
+  "_id": {
+    "$oid": "67a43290000aa632725f7b4d"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 944,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67a57cad1f41eb8387dbcb0e"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 945,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 600
+},
+{
+  "_id": {
+    "$oid": "67a6a97dd31660265c59ad09"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 946,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 50
+},
+{
+  "_id": {
+    "$oid": "67a8bd5ad2353131829cf31f"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 947,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67ad3f1fb9402f5c34fcb5bb"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 948,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67b121662637820f2ca96a71"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 949,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67bd193e1558960920ec7413"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 950,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67be5f1af56bd2b2aa2e8c41"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 951,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67c376c6f56d336c7aaf2e47"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 952,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 70
+},
+{
+  "_id": {
+    "$oid": "67c650ba8f7ce415427dc4fd"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 953,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 65
+},
+{
+  "_id": {
+    "$oid": "67c7951b823b2b58bcf43abc"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 954,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 450
+},
+{
+  "_id": {
+    "$oid": "67c8fd107a47b9484bd26ea0"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 955,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67ca4c7677571e6daa9878ed"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 956,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67d0dc9f3d48ee34bcfeea1c"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 957,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67d22f3c073c84d2986f5137"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 958,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67d3666eca3b6af5e1fb2595"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 959,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67d96bf4fc75b5fb47040faf"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 960,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67d987870765b7a2442ebba7"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 961,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 35
+},
+{
+  "_id": {
+    "$oid": "67db7c117306404fc8775663"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 962,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "67db7c1d7306404fc8775665"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 963,
+  "Exercise Name": "Walk",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "67dc0fd06453af75dbf96c61"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 964,
+  "Exercise Name": "Wlak",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "67deac7a31247278d2806fdd"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 965,
+  "Exercise Name": "Cycle",
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "67deb0f731247278d2806fdf"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 966,
+  "Exercise Name": "Cycle",
+  "Exercise_Time": 50
+},
+{
+  "_id": {
+    "$oid": "67e1fd41436c54afcb1b8d51"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 967,
+  "Exercise Name": "Cycle",
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67e35373436c54afcb1b8d58"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 968,
+  "Exercise Name": "Cycling",
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67e605a77e789f0170689f46"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 969,
+  "Exercise Name": "Cycle",
+  "Exercise_Time": 80
+},
+{
+  "_id": {
+    "$oid": "67e605bb7e789f0170689f48"
+  },
+  "Exercise_Type_Id": 4,
+  "Exercise_ID": 970,
+  "Exercise Name": "Cricket",
+  "Exercise_Time": 60
+}]
