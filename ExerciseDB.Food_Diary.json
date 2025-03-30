@@ -1,0 +1,4447 @@
+[{
+  "_id": {
+    "$oid": "677564978a3e9bf213eebd1c"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-01-01T09:51:51.156Z"
+  },
+  "Meal_Description": "Baked Ribs"
+},
+{
+  "_id": {
+    "$oid": "677595cf482495fa2c7ca9fd"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-01-01T13:21:51.903Z"
+  },
+  "Meal_Description": "Chicken Nachos"
+},
+{
+  "_id": {
+    "$oid": "6775f819e404ce352792709c"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-01T20:21:13.018Z"
+  },
+  "Meal_Description": "Bacon Sandwich"
+},
+{
+  "_id": {
+    "$oid": "6775f82ae404ce352792709d"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-01T20:21:30.272Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "6775f831e404ce352792709e"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-01T20:21:37.943Z"
+  },
+  "Meal_Description": "Nuts"
+},
+{
+  "_id": {
+    "$oid": "677728c364634dbb3b4ca747"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-02T18:01:07.356Z"
+  },
+  "Meal_Description": "ChocoLate"
+},
+{
+  "_id": {
+    "$oid": "677728d964634dbb3b4ca748"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-02T18:01:29.057Z"
+  },
+  "Meal_Description": "Spaghetti Bolognaise"
+},
+{
+  "_id": {
+    "$oid": "677728e564634dbb3b4ca749"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-02T18:01:41.747Z"
+  },
+  "Meal_Description": "Chicken Nachos"
+},
+{
+  "_id": {
+    "$oid": "677751eaec5147b3a50d76db"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-02T20:56:42.882Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "677751f1ec5147b3a50d76dc"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-02T20:56:49.985Z"
+  },
+  "Meal_Description": "Nuts"
+},
+{
+  "_id": {
+    "$oid": "67775201ec5147b3a50d76dd"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-02T20:57:05.512Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67788c9fda607cd671998bd0"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-03T19:19:27.495Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67788ca6da607cd671998bd1"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-03T19:19:34.905Z"
+  },
+  "Meal_Description": "Pasta"
+},
+{
+  "_id": {
+    "$oid": "67788cb3da607cd671998bd2"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-03T19:19:47.026Z"
+  },
+  "Meal_Description": "Ham Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67788cbfda607cd671998bd3"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-03T19:19:59.182Z"
+  },
+  "Meal_Description": "Pork Rhinds"
+},
+{
+  "_id": {
+    "$oid": "67799af2b30b31ab8b0b5bba"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-01-04T14:32:50.430Z"
+  },
+  "Meal_Description": "Bacon Sanwich"
+},
+{
+  "_id": {
+    "$oid": "67799b04b30b31ab8b0b5bbb"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-04T14:33:08.967Z"
+  },
+  "Meal_Description": "Chicken Noode Soup and Rolls"
+},
+{
+  "_id": {
+    "$oid": "67799b0cb30b31ab8b0b5bbc"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-04T14:33:16.817Z"
+  },
+  "Meal_Description": "Cookies"
+},
+{
+  "_id": {
+    "$oid": "6779b603d82e8d54fc8198a5"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-04T16:28:19.955Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "677a0fd8b831eae6e0cb2846"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-04T22:51:36.815Z"
+  },
+  "Meal_Description": "Ham and Cheese Board"
+},
+{
+  "_id": {
+    "$oid": "677a0fe1b831eae6e0cb2847"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-04T22:51:45.904Z"
+  },
+  "Meal_Description": "Pastries"
+},
+{
+  "_id": {
+    "$oid": "677b048c2f25a136eb8debc2"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-01-05T14:22:00.000Z"
+  },
+  "Meal_Description": "Bacon and Eggs"
+},
+{
+  "_id": {
+    "$oid": "677b056b2f25a136eb8debc3"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-05T20:12:00.000Z"
+  },
+  "Meal_Description": "Chicken Noodle Soup and Toast"
+},
+{
+  "_id": {
+    "$oid": "677b05c52f25a136eb8debc4"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-05T20:55:00.000Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "677b0ffbf377d04fed6710ad"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-01-05T23:22:00.000Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "677c7241c03e6bb68abe5c8d"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-06T01:33:00.000Z"
+  },
+  "Meal_Description": "Cheeseboard"
+},
+{
+  "_id": {
+    "$oid": "677c726a644af164442ffd51"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-01-06T18:16:42.568Z"
+  },
+  "Meal_Description": "Grilled Pork and Mushrooms with Salad"
+},
+{
+  "_id": {
+    "$oid": "677c7271644af164442ffd52"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-06T18:16:49.735Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "677c920f644af164442ffd53"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-01-06T20:31:43.619Z"
+  },
+  "Meal_Description": "Biscuits"
+},
+{
+  "_id": {
+    "$oid": "677db06b4e0bfec001f19c53"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-07T16:53:31.434Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "677db0814e0bfec001f19c54"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-01-07T16:53:53.496Z"
+  },
+  "Meal_Description": "Pork Chop in Mushroom Sauce"
+},
+{
+  "_id": {
+    "$oid": "677db0904e0bfec001f19c55"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-07T16:54:08.761Z"
+  },
+  "Meal_Description": "Chicken Noodle Soup and Toast"
+},
+{
+  "_id": {
+    "$oid": "677ddd045358417a89780f43"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-07T15:03:00.000Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "677efef2697581f258dbb6f3"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-08T19:22:00.000Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "677eff14697581f258dbb6f4"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-01-08T17:22:00.000Z"
+  },
+  "Meal_Description": "Ginger Biscuits"
+},
+{
+  "_id": {
+    "$oid": "677eff32697581f258dbb6f5"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-08T18:22:00.000Z"
+  },
+  "Meal_Description": "Pork and Veg Curry with Potato"
+},
+{
+  "_id": {
+    "$oid": "677f046aac76ea55ba51cef6"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-08T17:04:10.321Z"
+  },
+  "Meal_Description": "Rolls"
+},
+{
+  "_id": {
+    "$oid": "677f0b0ad27db7da7f1a6b1e"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-01-08T17:32:26.197Z"
+  },
+  "Meal_Description": "Chicken and Rice"
+},
+{
+  "_id": {
+    "$oid": "678058e1d802f7758ef1eab1"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-09T17:16:49.632Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "6780590dd802f7758ef1eab2"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-09T17:17:33.187Z"
+  },
+  "Meal_Description": "Rice and Sweet Fried Chicken"
+},
+{
+  "_id": {
+    "$oid": "67805923d802f7758ef1eab3"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-09T17:17:55.996Z"
+  },
+  "Meal_Description": "Biscuit"
+},
+{
+  "_id": {
+    "$oid": "6780874a6532909f426b236d"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-09T20:34:50.222Z"
+  },
+  "Meal_Description": "Mash and Meatloaf"
+},
+{
+  "_id": {
+    "$oid": "6781a79f007f013b645a1d3b"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-10T17:05:03.707Z"
+  },
+  "Meal_Description": "Eggs Toast and Cheese"
+},
+{
+  "_id": {
+    "$oid": "6781a7ed007f013b645a1d3c"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-10T17:06:21.321Z"
+  },
+  "Meal_Description": "Protein Pancakes"
+},
+{
+  "_id": {
+    "$oid": "6781a7fb007f013b645a1d3d"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-10T17:06:35.432Z"
+  },
+  "Meal_Description": "Chicken Nuggets"
+},
+{
+  "_id": {
+    "$oid": "6781a813007f013b645a1d3e"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-10T17:06:59.006Z"
+  },
+  "Meal_Description": "Yoghurt Oatmeal and Jam"
+},
+{
+  "_id": {
+    "$oid": "6782811bff3769a77dc8abd7"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-10T22:22:00.000Z"
+  },
+  "Meal_Description": "Cheeseboard"
+},
+{
+  "_id": {
+    "$oid": "67828136ff3769a77dc8abd8"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-10T22:22:00.000Z"
+  },
+  "Meal_Description": "Gin"
+},
+{
+  "_id": {
+    "$oid": "6782815dc23663881cb85d19"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-11T08:34:05.873Z"
+  },
+  "Meal_Description": "Chicken Patties"
+},
+{
+  "_id": {
+    "$oid": "6782b832ea28b82ede1b91e6"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-11T12:28:02.447Z"
+  },
+  "Meal_Description": "Pastries"
+},
+{
+  "_id": {
+    "$oid": "6782b9beea28b82ede1b91e8"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-11T12:34:38.398Z"
+  },
+  "Meal_Description": "Baked Chicken"
+},
+{
+  "_id": {
+    "$oid": "6782ba39ea28b82ede1b91e9"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-11T12:36:41.473Z"
+  },
+  "Meal_Description": "Gin"
+},
+{
+  "_id": {
+    "$oid": "6783f4a8c25af0ed35c6755a"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-12T10:58:16.218Z"
+  },
+  "Meal_Description": "Breakfast Casserole"
+},
+{
+  "_id": {
+    "$oid": "67847df1c25af0ed35c6755b"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-12T20:44:01.945Z"
+  },
+  "Meal_Description": "Brie and Bread"
+},
+{
+  "_id": {
+    "$oid": "67847dfec25af0ed35c6755c"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-12T20:44:14.297Z"
+  },
+  "Meal_Description": "Crab Meat"
+},
+{
+  "_id": {
+    "$oid": "67847e0cc25af0ed35c6755d"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-01-12T20:44:28.121Z"
+  },
+  "Meal_Description": "Beans on Toast"
+},
+{
+  "_id": {
+    "$oid": "67847e1ec25af0ed35c6755e"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-12T20:44:46.944Z"
+  },
+  "Meal_Description": "ChocoLate"
+},
+{
+  "_id": {
+    "$oid": "6785cf44b569e139ef5ed22d"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-01-13T20:43:16.626Z"
+  },
+  "Meal_Description": "sweets"
+},
+{
+  "_id": {
+    "$oid": "6785cf59b569e139ef5ed22e"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-13T20:43:37.798Z"
+  },
+  "Meal_Description": "Pork Curry and Veg"
+},
+{
+  "_id": {
+    "$oid": "6785cf6cb569e139ef5ed22f"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-01-13T20:43:56.978Z"
+  },
+  "Meal_Description": "Baked Chicken and Bead"
+},
+{
+  "_id": {
+    "$oid": "6785e9abc15926ed6cf0ab42"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-13T22:35:55.976Z"
+  },
+  "Meal_Description": "Crakers"
+},
+{
+  "_id": {
+    "$oid": "6786eda18125573145b3d183"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-14T17:05:05.751Z"
+  },
+  "Meal_Description": "Hot Chocolate"
+},
+{
+  "_id": {
+    "$oid": "6786edb08125573145b3d184"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-14T17:05:20.025Z"
+  },
+  "Meal_Description": "Chocolate"
+},
+{
+  "_id": {
+    "$oid": "6786edbc8125573145b3d185"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-01-14T17:05:32.501Z"
+  },
+  "Meal_Description": "Beef Tacos"
+},
+{
+  "_id": {
+    "$oid": "6786f7010b7368b154bfe7f2"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-01-14T17:45:05.381Z"
+  },
+  "Meal_Description": "Baked Chicken"
+},
+{
+  "_id": {
+    "$oid": "678707547b4b45572c6ecc27"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-14T18:54:44.564Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "678707aa7b4b45572c6ecc28"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-14T18:56:10.733Z"
+  },
+  "Meal_Description": "Crackers and CHeese"
+},
+{
+  "_id": {
+    "$oid": "67884803970fd5cd92b1bcc0"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-15T17:42:59.337Z"
+  },
+  "Meal_Description": "Soft Shell Taco"
+},
+{
+  "_id": {
+    "$oid": "67884824970fd5cd92b1bcc1"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-15T17:43:32.336Z"
+  },
+  "Meal_Description": "Doughnut"
+},
+{
+  "_id": {
+    "$oid": "678864a9970fd5cd92b1bcc2"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-15T19:45:13.478Z"
+  },
+  "Meal_Description": "Roast Pork Bagette"
+},
+{
+  "_id": {
+    "$oid": "678864bd970fd5cd92b1bcc3"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-15T19:45:33.293Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "67898d5d2b07b24419b1d3ee"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-16T16:51:09.186Z"
+  },
+  "Meal_Description": "Pork Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67898d732b07b24419b1d3ef"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-16T16:51:31.265Z"
+  },
+  "Meal_Description": "Pork Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67898d822b07b24419b1d3f0"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-16T16:51:46.032Z"
+  },
+  "Meal_Description": "Baked Chicken"
+},
+{
+  "_id": {
+    "$oid": "67898e0a2b07b24419b1d3f1"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-16T16:54:02.063Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "678aeff3d27bce175a392cdb"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-17T18:04:03.638Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "678af024d27bce175a392cdc"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-17T18:04:52.510Z"
+  },
+  "Meal_Description": "Mash Veg and Salmon"
+},
+{
+  "_id": {
+    "$oid": "678af03ad27bce175a392cdd"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-17T18:05:14.801Z"
+  },
+  "Meal_Description": "Beef and Salsa Tacos"
+},
+{
+  "_id": {
+    "$oid": "678b15558017cbf55463acb6"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-17T20:43:33.286Z"
+  },
+  "Meal_Description": "Chocolate"
+},
+{
+  "_id": {
+    "$oid": "678bf27115398879e5e9e510"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-18T12:26:57.900Z"
+  },
+  "Meal_Description": "Bacon And Veg Frutata"
+},
+{
+  "_id": {
+    "$oid": "678d0a9f43341f746eb939a0"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-18T21:44:00.000Z"
+  },
+  "Meal_Description": "Baked Chicken"
+},
+{
+  "_id": {
+    "$oid": "678d0ad143341f746eb939a1"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-01-18T23:22:00.000Z"
+  },
+  "Meal_Description": "Meat Tacos"
+},
+{
+  "_id": {
+    "$oid": "678d0ae443341f746eb939a2"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-18T22:22:00.000Z"
+  },
+  "Meal_Description": "Beer"
+},
+{
+  "_id": {
+    "$oid": "678d0b25d724ea9940ee9f98"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-19T08:24:37.535Z"
+  },
+  "Meal_Description": "Bacon and Veg Frutata"
+},
+{
+  "_id": {
+    "$oid": "678da25a540eb396cb25d150"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-01-19T19:09:46.941Z"
+  },
+  "Meal_Description": "Cheese PastaBake and Trout"
+},
+{
+  "_id": {
+    "$oid": "678da26d540eb396cb25d151"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-19T19:10:05.045Z"
+  },
+  "Meal_Description": "Rice and Beef and Veg"
+},
+{
+  "_id": {
+    "$oid": "678da29c540eb396cb25d152"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-19T19:10:52.025Z"
+  },
+  "Meal_Description": "Hot Choclate"
+},
+{
+  "_id": {
+    "$oid": "678efc463544f4be59f36003"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-20T19:45:42.919Z"
+  },
+  "Meal_Description": "Egg and Veg Frutata"
+},
+{
+  "_id": {
+    "$oid": "678efc783544f4be59f36004"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-01-20T19:46:32.908Z"
+  },
+  "Meal_Description": "Trout and Cheesey Pasta"
+},
+{
+  "_id": {
+    "$oid": "678efc853544f4be59f36005"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-20T19:46:45.006Z"
+  },
+  "Meal_Description": "Pork and Cheesey Pasta"
+},
+{
+  "_id": {
+    "$oid": "678efc8d3544f4be59f36006"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-01-20T19:46:53.658Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "678efcb23544f4be59f36007"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-20T19:47:30.409Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "679031a2fe152e3a52585726"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-01-21T17:45:38.559Z"
+  },
+  "Meal_Description": "Chocolate"
+},
+{
+  "_id": {
+    "$oid": "679031c2fe152e3a52585727"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-21T17:46:10.860Z"
+  },
+  "Meal_Description": "Pork and Cheesey Pastsa 500"
+},
+{
+  "_id": {
+    "$oid": "679031d8fe152e3a52585728"
+  },
+  "Meal": "Pizza",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-01-21T17:46:32.005Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "67903d54de61a9043a89e5e9"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-21T18:35:32.868Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67906e685c2547b8bf646f73"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-21T22:04:56.786Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67906e725c2547b8bf646f74"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-21T22:05:06.298Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67917b9ef60feb196ad5d633"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-01-22T17:13:34.735Z"
+  },
+  "Meal_Description": "Egg Fried rice"
+},
+{
+  "_id": {
+    "$oid": "67917bb2f60feb196ad5d634"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-22T17:13:54.545Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67917bdff60feb196ad5d635"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-22T17:14:39.170Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67917beaf60feb196ad5d636"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-22T17:14:50.947Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "679184c7f513e03afe0e8dbd"
+  },
+  "Meal": "Beef Tacos",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-22T17:52:39.085Z"
+  },
+  "Meal_Description": "Evening"
+},
+{
+  "_id": {
+    "$oid": "67919f21ca78f0d886311147"
+  },
+  "Meal": "Chocolate",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-01-22T19:45:05.805Z"
+  },
+  "Meal_Description": "Chocolate"
+},
+{
+  "_id": {
+    "$oid": "6792db15295a19a601096ac1"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-23T18:13:09.541Z"
+  },
+  "Meal_Description": "Fried Rice and Enchillada"
+},
+{
+  "_id": {
+    "$oid": "6792db3a295a19a601096ac2"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-01-23T18:13:46.170Z"
+  },
+  "Meal_Description": "Toast and Spice Scrambled Eggs with Salse and Veg"
+},
+{
+  "_id": {
+    "$oid": "6792db66295a19a601096ac4"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-23T18:14:30.512Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "6792db91295a19a601096ac5"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-23T18:15:13.131Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "6792db9f295a19a601096ac6"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-23T18:15:27.047Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "6794222fc639bc11ac921e63"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-24T17:28:47.941Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67942250c639bc11ac921e64"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-01-24T17:29:20.965Z"
+  },
+  "Meal_Description": "Fried Rice and Egg Medley"
+},
+{
+  "_id": {
+    "$oid": "67942262c639bc11ac921e65"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-01-24T17:29:38.238Z"
+  },
+  "Meal_Description": "Beef Enchilladas"
+},
+{
+  "_id": {
+    "$oid": "679446d6f26f291781953098"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-01-24T20:05:10.526Z"
+  },
+  "Meal_Description": "Gin"
+},
+{
+  "_id": {
+    "$oid": "679446f6f26f291781953099"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-24T20:05:42.748Z"
+  },
+  "Meal_Description": "Ravioli"
+},
+{
+  "_id": {
+    "$oid": "6794f9a6b12f68eee22ff113"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-25T08:48:06.360Z"
+  },
+  "Meal_Description": "Eggs on Toast"
+},
+{
+  "_id": {
+    "$oid": "6794fb47b12f68eee22ff114"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-25T08:55:03.075Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "679595cb8932ff0a5bd47ad1"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-25T19:54:19.323Z"
+  },
+  "Meal_Description": "Bowl of Chilli"
+},
+{
+  "_id": {
+    "$oid": "679595de8932ff0a5bd47ad2"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-01-25T19:54:38.739Z"
+  },
+  "Meal_Description": "Chicken Sandwich"
+},
+{
+  "_id": {
+    "$oid": "679595f68932ff0a5bd47ad3"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-25T19:55:02.172Z"
+  },
+  "Meal_Description": "Cheeseboard"
+},
+{
+  "_id": {
+    "$oid": "6795960c8932ff0a5bd47ad4"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-01-25T19:55:24.681Z"
+  },
+  "Meal_Description": "Ravioli"
+},
+{
+  "_id": {
+    "$oid": "67965c6b5e095085113cb309"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-26T10:01:47.039Z"
+  },
+  "Meal_Description": "Corn Dogs"
+},
+{
+  "_id": {
+    "$oid": "67978638bb69a0241a73f333"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-26T19:45:00.000Z"
+  },
+  "Meal_Description": "Chocolate"
+},
+{
+  "_id": {
+    "$oid": "67978657bb69a0241a73f334"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-01-26T23:33:00.000Z"
+  },
+  "Meal_Description": "Rum and Tonic"
+},
+{
+  "_id": {
+    "$oid": "6797867fbb69a0241a73f335"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-01-26T21:07:00.000Z"
+  },
+  "Meal_Description": "Ribs "
+},
+{
+  "_id": {
+    "$oid": "67978691bb69a0241a73f336"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-01-26T18:02:00.000Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "679786aebb69a0241a73f337"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-26T20:55:00.000Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67981e7b82087f6451ad568a"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-01-27T18:02:03.937Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67981e8c82087f6451ad568b"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-27T18:02:20.748Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67981ea482087f6451ad568c"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-27T18:02:44.633Z"
+  },
+  "Meal_Description": "Pork and Veg Curry"
+},
+{
+  "_id": {
+    "$oid": "6798302b132bae944ec12e1b"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 750,
+  "Consumption_Date": {
+    "$date": "2025-01-27T19:17:31.744Z"
+  },
+  "Meal_Description": "Pork and Veg Roast"
+},
+{
+  "_id": {
+    "$oid": "67984ca10f2982766f4f3c65"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-27T21:18:57.707Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "679972316265c53ed0edbf1d"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-01-28T18:11:29.789Z"
+  },
+  "Meal_Description": "Beef Chilli Con Carne"
+},
+{
+  "_id": {
+    "$oid": "679972496265c53ed0edbf1e"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-28T18:11:53.591Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "6799727f6265c53ed0edbf1f"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-28T18:12:47.474Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67997ac4cf38ff1cf28a8580"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-01-28T18:48:04.929Z"
+  },
+  "Meal_Description": "Mash Baked Chicken and Brocolli"
+},
+{
+  "_id": {
+    "$oid": "679ac02ccf38ff1cf28a8583"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-01-29T17:56:28.407Z"
+  },
+  "Meal_Description": "Grilled Cheese"
+},
+{
+  "_id": {
+    "$oid": "679ac03fcf38ff1cf28a8584"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-29T17:56:47.907Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "679ac054cf38ff1cf28a8585"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-29T17:57:08.822Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "679ac8b22163417f613f6184"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-29T18:32:50.715Z"
+  },
+  "Meal_Description": "BLT sandwich"
+},
+{
+  "_id": {
+    "$oid": "679c292a20427034fefe784a"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-30T19:36:42.122Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "679c2a8620427034fefe784b"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-01-30T19:42:30.672Z"
+  },
+  "Meal_Description": "pork chops"
+},
+{
+  "_id": {
+    "$oid": "679c2ad320427034fefe784c"
+  },
+  "Meal": "evening",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-01-30T19:43:47.657Z"
+  },
+  "Meal_Description": "Toast and Peanut Putter"
+},
+{
+  "_id": {
+    "$oid": "679c2aed20427034fefe784d"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-01-30T19:44:13.413Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "679ccf5d0b6cbc5d9878a0ac"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-01-31T07:25:49.164Z"
+  },
+  "Meal_Description": "Bacon and Eggs"
+},
+{
+  "_id": {
+    "$oid": "679eb9ba814787019b928374"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-01T18:18:02.103Z"
+  },
+  "Meal_Description": "Pop Tart"
+},
+{
+  "_id": {
+    "$oid": "679eb9c6814787019b928375"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-01T18:18:14.943Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "679eb9de814787019b928376"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-01T18:18:38.425Z"
+  },
+  "Meal_Description": "Cheese Crackers and Hummus"
+},
+{
+  "_id": {
+    "$oid": "679ec9b56e3c1794cb86bae4"
+  },
+  "Meal": "evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-01T19:26:13.129Z"
+  },
+  "Meal_Description": "pork sandwich"
+},
+{
+  "_id": {
+    "$oid": "679faa923c025efd7bd1ee9f"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-02T11:25:38.668Z"
+  },
+  "Meal_Description": "Egg and Bacon Sandwich"
+},
+{
+  "_id": {
+    "$oid": "679fab056a0c5cf8e813f965"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-01-31T23:22:00.000Z"
+  },
+  "Meal_Description": "Soft Shell Chicken Tacos"
+},
+{
+  "_id": {
+    "$oid": "679fab336a0c5cf8e813f967"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-01-31T21:22:00.000Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "679ffefef5180b3ecafa49dd"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-02T17:25:50.447Z"
+  },
+  "Meal_Description": "Baked Chicken and Ravioli"
+},
+{
+  "_id": {
+    "$oid": "679fff17f5180b3ecafa49de"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-02-02T17:26:15.423Z"
+  },
+  "Meal_Description": "Baked Pork"
+},
+{
+  "_id": {
+    "$oid": "679fff21f5180b3ecafa49df"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-02-02T17:26:25.105Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67a17fd0096555c462da3786"
+  },
+  "Meal": "Fruit",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-02-03T20:47:44.588Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67a17fec096555c462da3787"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-03T20:48:12.026Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67a18001096555c462da3788"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-02-03T20:48:33.924Z"
+  },
+  "Meal_Description": "Beef Mash and Veg"
+},
+{
+  "_id": {
+    "$oid": "67a18019096555c462da3789"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-03T20:48:57.603Z"
+  },
+  "Meal_Description": "Chicken Tacos"
+},
+{
+  "_id": {
+    "$oid": "67a1802c096555c462da378a"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-02-03T20:49:16.688Z"
+  },
+  "Meal_Description": "Pop Tart"
+},
+{
+  "_id": {
+    "$oid": "67a187b7c00cf4a95f0f4702"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-02-03T21:21:27.005Z"
+  },
+  "Meal_Description": "toast"
+},
+{
+  "_id": {
+    "$oid": "67a2cb80635fd16696852893"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-04T20:22:56.670Z"
+  },
+  "Meal_Description": "Cakes"
+},
+{
+  "_id": {
+    "$oid": "67a2cbbd635fd16696852894"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-04T20:23:57.069Z"
+  },
+  "Meal_Description": "Sweet and Sour Chicken with Rice"
+},
+{
+  "_id": {
+    "$oid": "67a2cbd0635fd16696852895"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-04T20:24:16.260Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67a431d0000aa632725f7b4a"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-04T23:55:00.000Z"
+  },
+  "Meal_Description": "Crrackers and Jam"
+},
+{
+  "_id": {
+    "$oid": "67a432152c47cbc6e9320dd4"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-05T21:52:53.533Z"
+  },
+  "Meal_Description": "Curry Pork and Roast Veg"
+},
+{
+  "_id": {
+    "$oid": "67a432252c47cbc6e9320dd5"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-02-05T21:53:09.086Z"
+  },
+  "Meal_Description": "Pizza "
+},
+{
+  "_id": {
+    "$oid": "67a432392c47cbc6e9320dd6"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-02-05T21:53:29.494Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67a432492c47cbc6e9320dd7"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-05T21:53:45.662Z"
+  },
+  "Meal_Description": "Beer"
+},
+{
+  "_id": {
+    "$oid": "67a57b681f41eb8387dbcb08"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-06T21:18:00.390Z"
+  },
+  "Meal_Description": "Cakes"
+},
+{
+  "_id": {
+    "$oid": "67a57b821f41eb8387dbcb09"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-02-06T21:18:26.231Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67a57b9a1f41eb8387dbcb0a"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-06T21:18:50.202Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67a57bb41f41eb8387dbcb0b"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-06T21:19:16.266Z"
+  },
+  "Meal_Description": "Chicken and Rice"
+},
+{
+  "_id": {
+    "$oid": "67a57bca1f41eb8387dbcb0c"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-06T21:19:38.817Z"
+  },
+  "Meal_Description": "Spaghetti Bolognaise"
+},
+{
+  "_id": {
+    "$oid": "67a57bde1f41eb8387dbcb0d"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-06T21:19:58.445Z"
+  },
+  "Meal_Description": "Corn Dog"
+},
+{
+  "_id": {
+    "$oid": "67a6a917d32ef7f9909e2911"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-07T18:45:11.963Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "67a6a92dd32ef7f9909e2912"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-07T18:45:33.407Z"
+  },
+  "Meal_Description": "Spaghetti Bolognaise"
+},
+{
+  "_id": {
+    "$oid": "67a6a93ed32ef7f9909e2913"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-02-07T18:45:50.602Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67a6a952d32ef7f9909e2914"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-07T18:46:10.922Z"
+  },
+  "Meal_Description": "Granola"
+},
+{
+  "_id": {
+    "$oid": "67a8bd7cd2353131829cf321"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-08T17:22:00.000Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "67a8bda1d2353131829cf322"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-08T19:44:00.000Z"
+  },
+  "Meal_Description": "Ham and Cheese Sandwiches"
+},
+{
+  "_id": {
+    "$oid": "67a8bdc3d2353131829cf323"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-08T23:07:00.000Z"
+  },
+  "Meal_Description": "Burger and Fries"
+},
+{
+  "_id": {
+    "$oid": "67a8bdddd2353131829cf324"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-02-08T23:45:00.000Z"
+  },
+  "Meal_Description": "Salad"
+},
+{
+  "_id": {
+    "$oid": "67a8bdfad2353131829cf325"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-08T19:33:00.000Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67a8be9ed2353131829cf326"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-08T23:55:00.000Z"
+  },
+  "Meal_Description": "Ice Pops"
+},
+{
+  "_id": {
+    "$oid": "67a8bee77429021877c5ef52"
+  },
+  "Meal": "Break",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-02-09T08:42:47.595Z"
+  },
+  "Meal_Description": "Chicken Stock"
+},
+{
+  "_id": {
+    "$oid": "67a8d72a2f6037e3ec3f8dfc"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-09T10:26:18.434Z"
+  },
+  "Meal_Description": "Ice Pops"
+},
+{
+  "_id": {
+    "$oid": "67a9077b3f7a2933266feba8"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-02-09T13:52:27.480Z"
+  },
+  "Meal_Description": "Doughnuts"
+},
+{
+  "_id": {
+    "$oid": "67aa4cde417c0afd6b5f3a63"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-02-10T13:00:46.460Z"
+  },
+  "Meal_Description": "Bacon and Mushroom Pretzel Bun Sandwiches"
+},
+{
+  "_id": {
+    "$oid": "67aa4d53417c0afd6b5f3a64"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-10T13:02:43.747Z"
+  },
+  "Meal_Description": "Pastries"
+},
+{
+  "_id": {
+    "$oid": "67aa4f60417c0afd6b5f3a65"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-02-10T13:11:28.416Z"
+  },
+  "Meal_Description": "Chocolate "
+},
+{
+  "_id": {
+    "$oid": "67aa71a90803cac9b219acc0"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-02-10T15:37:45.778Z"
+  },
+  "Meal_Description": "ice pops"
+},
+{
+  "_id": {
+    "$oid": "67aab4271d4fa817bae0297a"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-10T22:22:00.000Z"
+  },
+  "Meal_Description": "Pork Sandwiches"
+},
+{
+  "_id": {
+    "$oid": "67aab4511d4fa817bae0297b"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-02-10T19:23:00.000Z"
+  },
+  "Meal_Description": "Cookies"
+},
+{
+  "_id": {
+    "$oid": "67abdf3281079d0d713650fb"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-11T17:37:22.454Z"
+  },
+  "Meal_Description": "Pork curry"
+},
+{
+  "_id": {
+    "$oid": "67abdf6581079d0d713650fc"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-02-11T17:38:13.970Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "67abdf7981079d0d713650fd"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-02-11T17:38:33.163Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67abdfa381079d0d713650fe"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-02-11T17:39:15.566Z"
+  },
+  "Meal_Description": "Chocolate"
+},
+{
+  "_id": {
+    "$oid": "67ac155e9a65e433aef792bd"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-11T21:28:30.360Z"
+  },
+  "Meal_Description": "Pastries"
+},
+{
+  "_id": {
+    "$oid": "67ad3e43b9402f5c34fcb5b5"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-12T18:35:15.097Z"
+  },
+  "Meal_Description": "Doughnut"
+},
+{
+  "_id": {
+    "$oid": "67ad3e4fb9402f5c34fcb5b6"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-12T18:35:27.587Z"
+  },
+  "Meal_Description": "Pastries"
+},
+{
+  "_id": {
+    "$oid": "67ad3e61b9402f5c34fcb5b7"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-12T18:35:45.329Z"
+  },
+  "Meal_Description": "Chocolate"
+},
+{
+  "_id": {
+    "$oid": "67ad3e76b9402f5c34fcb5b8"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-12T18:36:06.197Z"
+  },
+  "Meal_Description": "Curried Pork and Vegetables"
+},
+{
+  "_id": {
+    "$oid": "67ad3e94b9402f5c34fcb5b9"
+  },
+  "Meal": "Eveninig",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-12T18:36:36.012Z"
+  },
+  "Meal_Description": "Mash Gravy and Beef"
+},
+{
+  "_id": {
+    "$oid": "67ad3eabb9402f5c34fcb5ba"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-02-12T18:36:59.802Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67ae95c8773adf6b6a1f71b2"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-13T19:00:56.650Z"
+  },
+  "Meal_Description": "Toast Bacon and Eggs"
+},
+{
+  "_id": {
+    "$oid": "67ae95d9773adf6b6a1f71b3"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-13T19:01:13.990Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67ae95f3773adf6b6a1f71b4"
+  },
+  "Meal": "Chicken Cesar Salad ",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-02-13T19:01:39.779Z"
+  },
+  "Meal_Description": "Evening"
+},
+{
+  "_id": {
+    "$oid": "67ae9600773adf6b6a1f71b5"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-13T19:01:52.352Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "67afc1d6a72ecca1fc26cc44"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-14T13:20:00.000Z"
+  },
+  "Meal_Description": "Bacon Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67afc1f7a72ecca1fc26cc45"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-14T18:22:00.000Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67afc216a72ecca1fc26cc46"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-14T20:21:00.000Z"
+  },
+  "Meal_Description": "Chocolate Strawberrys"
+},
+{
+  "_id": {
+    "$oid": "67afc23ba72ecca1fc26cc47"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-14T21:22:00.000Z"
+  },
+  "Meal_Description": "Lamb Chop"
+},
+{
+  "_id": {
+    "$oid": "67b120262637820f2ca96a6d"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-15T17:15:50.218Z"
+  },
+  "Meal_Description": "Bacon sandwich"
+},
+{
+  "_id": {
+    "$oid": "67b1206b2637820f2ca96a6e"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-15T17:16:59.320Z"
+  },
+  "Meal_Description": "Salad"
+},
+{
+  "_id": {
+    "$oid": "67b120802637820f2ca96a6f"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-15T17:17:20.957Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "67b120992637820f2ca96a70"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-15T17:17:45.837Z"
+  },
+  "Meal_Description": "Chocolate"
+},
+{
+  "_id": {
+    "$oid": "67b13348f3220f95a3f0f8a5"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-15T18:37:28.954Z"
+  },
+  "Meal_Description": "Soup and bread"
+},
+{
+  "_id": {
+    "$oid": "67b23eeae42f4811b1f81c38"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-16T13:39:22.111Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67b23f07e42f4811b1f81c39"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-16T13:39:51.725Z"
+  },
+  "Meal_Description": "Biscuits"
+},
+{
+  "_id": {
+    "$oid": "67b23f2ae42f4811b1f81c3a"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 700,
+  "Consumption_Date": {
+    "$date": "2025-02-16T13:40:26.703Z"
+  },
+  "Meal_Description": "Meat and Veg Pie"
+},
+{
+  "_id": {
+    "$oid": "67b24d9e886f5031f12a7de4"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-16T14:42:06.124Z"
+  },
+  "Meal_Description": "cake"
+},
+{
+  "_id": {
+    "$oid": "67b3ceb1f91568f0fa9de382"
+  },
+  "Meal": "Breakfast ",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-17T18:05:05.064Z"
+  },
+  "Meal_Description": "Meat and veg Pie"
+},
+{
+  "_id": {
+    "$oid": "67b3cee8f91568f0fa9de383"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-17T18:06:00.662Z"
+  },
+  "Meal_Description": "Beef and Veg Soup with Toast"
+},
+{
+  "_id": {
+    "$oid": "67b3cefdf91568f0fa9de384"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-17T18:06:21.759Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67b3cf0ff91568f0fa9de385"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-17T18:06:39.216Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67b3ff92fe4bec547b795027"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-02-17T21:33:38.120Z"
+  },
+  "Meal_Description": "Roast Pork"
+},
+{
+  "_id": {
+    "$oid": "67b52903c852c5c66c6a5218"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-18T18:42:43.656Z"
+  },
+  "Meal_Description": "Pie"
+},
+{
+  "_id": {
+    "$oid": "67b52910c852c5c66c6a5219"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-02-18T18:42:56.486Z"
+  },
+  "Meal_Description": "Bacon Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67b5291bc852c5c66c6a521a"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-02-18T18:43:07.518Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67b539b4c852c5c66c6a521b"
+  },
+  "Meal": "evening",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-02-18T19:53:56.624Z"
+  },
+  "Meal_Description": "Baked Chicken"
+},
+{
+  "_id": {
+    "$oid": "67b539c5c852c5c66c6a521c"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-02-18T19:54:13.317Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67b67216f1227c94b4c16f8c"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-19T13:00:00.000Z"
+  },
+  "Meal_Description": "Meat and Veg Pie"
+},
+{
+  "_id": {
+    "$oid": "67b67259f1227c94b4c16f8d"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-19T22:22:00.000Z"
+  },
+  "Meal_Description": "Toast and Salad"
+},
+{
+  "_id": {
+    "$oid": "67b6726cf1227c94b4c16f8e"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-02-19T19:22:00.000Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67b67285f1227c94b4c16f8f"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-19T21:06:00.000Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67b672bd6074ad9914b6d281"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-19T18:09:33.884Z"
+  },
+  "Meal_Description": "Meat and Veg Pie"
+},
+{
+  "_id": {
+    "$oid": "67b7e63b7070aebf15bab9f6"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-02-20T20:34:35.457Z"
+  },
+  "Meal_Description": "Toast and Eggs"
+},
+{
+  "_id": {
+    "$oid": "67b7e6537070aebf15bab9f7"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-20T20:34:59.392Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67b7e6667070aebf15bab9f8"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-20T20:35:18.117Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67b7e68c7070aebf15bab9f9"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-20T20:35:56.111Z"
+  },
+  "Meal_Description": "Toast and honey"
+},
+{
+  "_id": {
+    "$oid": "67b7e6a37070aebf15bab9fa"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-20T20:36:19.182Z"
+  },
+  "Meal_Description": "Wontons and Scallops"
+},
+{
+  "_id": {
+    "$oid": "67ba0e6d6c6bd017845d559d"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-21T14:22:00.000Z"
+  },
+  "Meal_Description": "Grilled Scallops"
+},
+{
+  "_id": {
+    "$oid": "67ba0e8a6c6bd017845d559e"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-21T18:05:00.000Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67ba0ea46c6bd017845d559f"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-21T22:55:00.000Z"
+  },
+  "Meal_Description": "Beer"
+},
+{
+  "_id": {
+    "$oid": "67ba0ecc6c6bd017845d55a0"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-21T19:22:00.000Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67ba0ef26c6bd017845d55a1"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-02-21T23:55:00.000Z"
+  },
+  "Meal_Description": "Burrito Jalisco"
+},
+{
+  "_id": {
+    "$oid": "67ba0f2d6c6bd017845d55a2"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-02-21T21:04:00.000Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "67ba0f4e7049923999cb11d4"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-02-22T11:54:22.882Z"
+  },
+  "Meal_Description": "Eggs and toast"
+},
+{
+  "_id": {
+    "$oid": "67ba593f090009f340b5c4e9"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-02-22T17:09:51.222Z"
+  },
+  "Meal_Description": "PotStickers"
+},
+{
+  "_id": {
+    "$oid": "67ba60925c0f924f0396c971"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-22T17:41:06.706Z"
+  },
+  "Meal_Description": "Baked Chicken"
+},
+{
+  "_id": {
+    "$oid": "67ba6778811abc0fd6118b75"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-02-22T18:10:32.888Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "67ba7313852ee1984ab9b28e"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-02-22T19:00:03.775Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67bb6ffbe5545334a19d1ff2"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-02-23T12:59:07.138Z"
+  },
+  "Meal_Description": "Bacon and Egg Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67bb7008e5545334a19d1ff3"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-23T12:59:20.904Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "67bba5666b7bebc99a1e3e3c"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-23T16:47:02.145Z"
+  },
+  "Meal_Description": "Chicken Wings and Roast Veg"
+},
+{
+  "_id": {
+    "$oid": "67bbcb913549ebb31b140e65"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 460,
+  "Consumption_Date": {
+    "$date": "2025-02-23T19:29:53.094Z"
+  },
+  "Meal_Description": "Cake and Sweets"
+},
+{
+  "_id": {
+    "$oid": "67bd1328a6628a13c7c2a300"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-02-24T18:47:36.451Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67bd1341a6628a13c7c2a301"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-24T18:48:01.390Z"
+  },
+  "Meal_Description": "Pork and Veg Curry"
+},
+{
+  "_id": {
+    "$oid": "67bd1356a6628a13c7c2a302"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-24T18:48:22.578Z"
+  },
+  "Meal_Description": "Pesto Pasta"
+},
+{
+  "_id": {
+    "$oid": "67bd13a3a6628a13c7c2a303"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-24T18:49:39.256Z"
+  },
+  "Meal_Description": "Chicken Wings"
+},
+{
+  "_id": {
+    "$oid": "67be5f33f56bd2b2aa2e8c43"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-25T18:07:00.000Z"
+  },
+  "Meal_Description": "Lamb Curry and Roast Veg"
+},
+{
+  "_id": {
+    "$oid": "67be5f48f56bd2b2aa2e8c44"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-25T19:45:00.000Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67be5f72f56bd2b2aa2e8c45"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-02-25T23:44:00.000Z"
+  },
+  "Meal_Description": "Baked Chicken"
+},
+{
+  "_id": {
+    "$oid": "67bfadd6cb6cfb2325a9b880"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-02-26T18:12:06.747Z"
+  },
+  "Meal_Description": "pizza"
+},
+{
+  "_id": {
+    "$oid": "67bfae07cb6cfb2325a9b881"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-02-26T18:12:55.948Z"
+  },
+  "Meal_Description": "Kung Pao Chicken and Rangoons"
+},
+{
+  "_id": {
+    "$oid": "67bfae2bcb6cfb2325a9b882"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-26T18:13:31.382Z"
+  },
+  "Meal_Description": "Pesto Pasta and Bacon"
+},
+{
+  "_id": {
+    "$oid": "67bfae3ccb6cfb2325a9b883"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-02-26T18:13:48.583Z"
+  },
+  "Meal_Description": "sweets"
+},
+{
+  "_id": {
+    "$oid": "67c06b9cd028534ff8c50c38"
+  },
+  "Meal": " Breakfast",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-02-27T07:41:48.913Z"
+  },
+  "Meal_Description": "Bacon and Eggs on Toast"
+},
+{
+  "_id": {
+    "$oid": "67c06bc7d028534ff8c50c39"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-02-27T07:42:31.202Z"
+  },
+  "Meal_Description": "Probiotic Juice"
+},
+{
+  "_id": {
+    "$oid": "67c10692c44910eac8dbf1ff"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-02-27T18:42:58.533Z"
+  },
+  "Meal_Description": "Tacos"
+},
+{
+  "_id": {
+    "$oid": "67c106c0c44910eac8dbf200"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 700,
+  "Consumption_Date": {
+    "$date": "2025-02-27T18:43:44.844Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67c376f7f56d336c7aaf2e49"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-02-28T13:00:00.000Z"
+  },
+  "Meal_Description": "Bacon Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67c37713f56d336c7aaf2e4a"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-02-28T18:12:00.000Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "67c37730f56d336c7aaf2e4b"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 700,
+  "Consumption_Date": {
+    "$date": "2025-02-28T23:10:00.000Z"
+  },
+  "Meal_Description": "Chicken and Chips"
+},
+{
+  "_id": {
+    "$oid": "67c37758f56d336c7aaf2e4c"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-02-28T23:14:00.000Z"
+  },
+  "Meal_Description": "Beer"
+},
+{
+  "_id": {
+    "$oid": "67c37781be49cf609e0b33dd"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-03-01T15:09:21.194Z"
+  },
+  "Meal_Description": "Bacon and Egg Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67c377a0be49cf609e0b33de"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 750,
+  "Consumption_Date": {
+    "$date": "2025-03-01T15:09:52.591Z"
+  },
+  "Meal_Description": "Chicken and Pasta"
+},
+{
+  "_id": {
+    "$oid": "67c46ac0d017b1472dc541b4"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-02T08:27:12.208Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "67c46ade041550cb9dae197a"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-03-01T22:55:00.000Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67c46b41041550cb9dae197b"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-01T22:33:00.000Z"
+  },
+  "Meal_Description": "Ice Cream"
+},
+{
+  "_id": {
+    "$oid": "67c4ab12110d861a5a64b63b"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-03-02T13:01:38.945Z"
+  },
+  "Meal_Description": "Pasta and baked chicken"
+},
+{
+  "_id": {
+    "$oid": "67c4ec3c471a3ef81216787b"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-02T17:39:40.268Z"
+  },
+  "Meal_Description": "Patty Melt and Crisps"
+},
+{
+  "_id": {
+    "$oid": "67c5121d27253ba6bbe7e555"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-02T20:21:17.852Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67c5122c27253ba6bbe7e556"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-02T20:21:32.118Z"
+  },
+  "Meal_Description": "Pretzels"
+},
+{
+  "_id": {
+    "$oid": "67c64f658f7ce415427dc4fa"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-03T18:55:01.765Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67c64f768f7ce415427dc4fb"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-03T18:55:18.307Z"
+  },
+  "Meal_Description": "Pork Sandwiches"
+},
+{
+  "_id": {
+    "$oid": "67c650858f7ce415427dc4fc"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-03T18:59:49.316Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67c794c6823b2b58bcf43ab9"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-03-04T18:03:18.364Z"
+  },
+  "Meal_Description": "Lamb and Veg Curry"
+},
+{
+  "_id": {
+    "$oid": "67c794d0823b2b58bcf43aba"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-04T18:03:28.725Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67c79506823b2b58bcf43abb"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-03-04T18:04:22.666Z"
+  },
+  "Meal_Description": "Pork and Pasta"
+},
+{
+  "_id": {
+    "$oid": "67c7c37e7b1479aee1f1bc76"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-03-04T21:22:38.516Z"
+  },
+  "Meal_Description": "Toast and honey"
+},
+{
+  "_id": {
+    "$oid": "67c8fc767a47b9484bd26e9c"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-03-05T19:37:58.418Z"
+  },
+  "Meal_Description": "Toast and honey"
+},
+{
+  "_id": {
+    "$oid": "67c8fc837a47b9484bd26e9d"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-03-05T19:38:11.797Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67c8fc987a47b9484bd26e9e"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-03-05T19:38:32.346Z"
+  },
+  "Meal_Description": "Baked Chicken"
+},
+{
+  "_id": {
+    "$oid": "67c8fca67a47b9484bd26e9f"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-05T19:38:46.645Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67ca4c9977571e6daa9878ef"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-06T22:44:00.000Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67ca4cc077571e6daa9878f0"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-03-06T23:12:00.000Z"
+  },
+  "Meal_Description": "Toast and Honey"
+},
+{
+  "_id": {
+    "$oid": "67ca4cde77571e6daa9878f1"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-06T18:22:00.000Z"
+  },
+  "Meal_Description": "Lamb Curry and Roast Veg"
+},
+{
+  "_id": {
+    "$oid": "67ca4cfa77571e6daa9878f2"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-03-06T22:22:00.000Z"
+  },
+  "Meal_Description": "Pork and Salsa"
+},
+{
+  "_id": {
+    "$oid": "67cc4334af6e23a30b9ea3ec"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 750,
+  "Consumption_Date": {
+    "$date": "2025-03-07T18:33:00.000Z"
+  },
+  "Meal_Description": "Ice Cream"
+},
+{
+  "_id": {
+    "$oid": "67cc4381af6e23a30b9ea3ed"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-03-07T13:00:00.000Z"
+  },
+  "Meal_Description": "Toast and Honey"
+},
+{
+  "_id": {
+    "$oid": "67cc44a0eb179404f0819e95"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-03-07T18:22:00.000Z"
+  },
+  "Meal_Description": "Baked Chicken"
+},
+{
+  "_id": {
+    "$oid": "67cc455d9251c821881136c7"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-06T19:45:00.000Z"
+  },
+  "Meal_Description": "Cookie"
+},
+{
+  "_id": {
+    "$oid": "67cc6174692d6e0e84f8cc0e"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-08T09:00:00.000Z"
+  },
+  "Meal_Description": "Greek Pastries"
+},
+{
+  "_id": {
+    "$oid": "67ccd4b25338f8299f0f50f8"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-07T12:45:00.000Z"
+  },
+  "Meal_Description": "Baked Chicken and Chips"
+},
+{
+  "_id": {
+    "$oid": "67ccd52e5d3abfc80735ccfb"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-03-08T17:39:26.224Z"
+  },
+  "Meal_Description": "Pork and Salsa"
+},
+{
+  "_id": {
+    "$oid": "67ccd5475d3abfc80735ccfc"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-03-08T17:39:51.580Z"
+  },
+  "Meal_Description": "Ice Cream"
+},
+{
+  "_id": {
+    "$oid": "67cd944eb8703e97f6cc3e3d"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-08T17:22:00.000Z"
+  },
+  "Meal_Description": "Chicken Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67cd94b5b8703e97f6cc3e3f"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-08T19:02:00.000Z"
+  },
+  "Meal_Description": "Ice Cream"
+},
+{
+  "_id": {
+    "$oid": "67ce502c666eb466091dde6a"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-09T11:22:00.000Z"
+  },
+  "Meal_Description": "Beef Tacos"
+},
+{
+  "_id": {
+    "$oid": "67ce5055666eb466091dde6b"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-09T16:22:00.000Z"
+  },
+  "Meal_Description": "Pork Burrito"
+},
+{
+  "_id": {
+    "$oid": "67ce5075666eb466091dde6c"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-09T14:55:00.000Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67ce509b666eb466091dde6d"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-03-09T19:22:00.000Z"
+  },
+  "Meal_Description": "Cookies"
+},
+{
+  "_id": {
+    "$oid": "67cf7be32e3fdae643c5a252"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-10T18:55:15.877Z"
+  },
+  "Meal_Description": "Lamb and Veg Curry"
+},
+{
+  "_id": {
+    "$oid": "67cf7bfb2e3fdae643c5a253"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-03-10T18:55:39.873Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67cf7c152e3fdae643c5a254"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-10T18:56:05.252Z"
+  },
+  "Meal_Description": "Chips and Chicken"
+},
+{
+  "_id": {
+    "$oid": "67cf9bad2e3fdae643c5a255"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-03-10T21:10:53.949Z"
+  },
+  "Meal_Description": "Cookies and Ice Cream"
+},
+{
+  "_id": {
+    "$oid": "67d0c1130835a93db9eab080"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-03-11T18:02:43.242Z"
+  },
+  "Meal_Description": "Ice Cream"
+},
+{
+  "_id": {
+    "$oid": "67d0c1250835a93db9eab081"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-03-11T18:03:01.772Z"
+  },
+  "Meal_Description": "Nut Mix"
+},
+{
+  "_id": {
+    "$oid": "67d0c14e0835a93db9eab082"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-11T18:03:42.046Z"
+  },
+  "Meal_Description": "Chicken Beans and Salsa"
+},
+{
+  "_id": {
+    "$oid": "67d0c1600835a93db9eab083"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-11T18:04:00.141Z"
+  },
+  "Meal_Description": "Cookies"
+},
+{
+  "_id": {
+    "$oid": "67d0c4020835a93db9eab084"
+  },
+  "Meal": "evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-11T18:15:14.552Z"
+  },
+  "Meal_Description": "Pulled Pork Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67d21a1db65d8bf869168d4c"
+  },
+  "Meal": "Snaack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-12T18:34:53.417Z"
+  },
+  "Meal_Description": "Cookies"
+},
+{
+  "_id": {
+    "$oid": "67d21a4ab65d8bf869168d4d"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-12T18:35:38.479Z"
+  },
+  "Meal_Description": "Chicken Salsa and Beans"
+},
+{
+  "_id": {
+    "$oid": "67d21a7bb65d8bf869168d4e"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-12T18:36:27.943Z"
+  },
+  "Meal_Description": "Pulled Chicken Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67d21a88b65d8bf869168d4f"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-12T18:36:40.986Z"
+  },
+  "Meal_Description": "Bombay Mix"
+},
+{
+  "_id": {
+    "$oid": "67d22f50073c84d2986f5139"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-03-12T20:05:20.693Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67d366aa1f7e7ebef839fff1"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  },
+  "Meal_Description": "Chicken Salsa and Beans",
+  "Date": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d366ce1f7e7ebef839fff2"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-13T18:14:22.636Z"
+  },
+  "Meal_Description": "Pulled Beef Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67d366e11f7e7ebef839fff3"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  },
+  "Meal_Description": "Cookie"
+},
+{
+  "_id": {
+    "$oid": "67d5aba27b0fc499be6f2125"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "67d5abc47b0fc499be6f2126"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "Meal_Description": "Doughnut"
+},
+{
+  "_id": {
+    "$oid": "67d5abf07b0fc499be6f2127"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "Meal_Description": "Bombay Mix"
+},
+{
+  "_id": {
+    "$oid": "67d5ac0a7b0fc499be6f2128"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "67d5ac1c7b0fc499be6f2129"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-03-14T19:33:00.000Z"
+  },
+  "Meal_Description": "Greek Pastries"
+},
+{
+  "_id": {
+    "$oid": "67d5ac76d06ce77a228432f7"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-15T11:36:06.491Z"
+  },
+  "Meal_Description": "Pulled Beef Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67d5ac88d06ce77a228432f8"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "Meal_Description": "Coffee Cake"
+},
+{
+  "_id": {
+    "$oid": "67d5aca1d06ce77a228432f9"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-03-15T11:36:49.857Z"
+  },
+  "Meal_Description": "Toast and Honey"
+},
+{
+  "_id": {
+    "$oid": "67d5c21c333163c6735dbeca"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-15T13:08:28.235Z"
+  },
+  "Meal_Description": "Bombay Mix"
+},
+{
+  "_id": {
+    "$oid": "67d622ff0f591f4134972e78"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "Meal_Description": "Ice Cream"
+},
+{
+  "_id": {
+    "$oid": "67d623150f591f4134972e79"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "Meal_Description": "Beef Stew and Bread"
+},
+{
+  "_id": {
+    "$oid": "67d7492c1a6b15c745537162"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-16T00:00:00.000Z"
+  },
+  "Meal_Description": "Breakfast Casserole"
+},
+{
+  "_id": {
+    "$oid": "67d749391a6b15c745537163"
+  },
+  "Meal": "Lunce",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-03-16T16:57:13.837Z"
+  },
+  "Meal_Description": "Chips"
+},
+{
+  "_id": {
+    "$oid": "67d749641a6b15c745537164"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-03-16T16:57:56.976Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67d74b9d1a6b15c745537165"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-03-16T17:07:25.559Z"
+  },
+  "Meal_Description": "Hot Chocolate"
+},
+{
+  "_id": {
+    "$oid": "67d7937e1a6b15c745537166"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-16T22:14:06.778Z"
+  },
+  "Meal_Description": "Beef Tacos"
+},
+{
+  "_id": {
+    "$oid": "67d793a01a6b15c745537167"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-03-16T00:00:00.000Z"
+  },
+  "Meal_Description": "Pastry"
+},
+{
+  "_id": {
+    "$oid": "67d96c1cfc75b5fb47040fb1"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-17T00:00:00.000Z"
+  },
+  "Meal_Description": "Butter Lamb and Veg"
+},
+{
+  "_id": {
+    "$oid": "67d96c45fc75b5fb47040fb2"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-17T00:00:00.000Z"
+  },
+  "Meal_Description": "Crab Rangoon and Egg Rolls"
+},
+{
+  "_id": {
+    "$oid": "67d96c5efc75b5fb47040fb3"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-03-17T19:34:00.000Z"
+  },
+  "Meal_Description": "Cookies"
+},
+{
+  "_id": {
+    "$oid": "67d96c8d98033d86f62c3c50"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-18T07:52:29.863Z"
+  },
+  "Meal_Description": "Sweey and Sour Chicken with veg"
+},
+{
+  "_id": {
+    "$oid": "67d96c9e98033d86f62c3c51"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-18T07:52:46.367Z"
+  },
+  "Meal_Description": "Cookies"
+},
+{
+  "_id": {
+    "$oid": "67d9dfae3f2b8244366eb12c"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-03-18T16:03:42.040Z"
+  },
+  "Meal_Description": "Gyros and Pita"
+},
+{
+  "_id": {
+    "$oid": "67d9dfba3f2b8244366eb12d"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-18T16:03:54.959Z"
+  },
+  "Meal_Description": "Cookie"
+},
+{
+  "_id": {
+    "$oid": "67da29cf7263b2131f9a7202"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-03-18T21:19:59.013Z"
+  },
+  "Meal_Description": "Cookie"
+},
+{
+  "_id": {
+    "$oid": "67dacc006e4d481e2c2f36dc"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-19T08:52:00.491Z"
+  },
+  "Meal_Description": "Breakfast Casserole"
+},
+{
+  "_id": {
+    "$oid": "67db5a2e2c757d27f1a5b5c3"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-03-19T18:58:38.428Z"
+  },
+  "Meal_Description": "Chips"
+},
+{
+  "_id": {
+    "$oid": "67db5a402c757d27f1a5b5c4"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-03-19T18:58:56.513Z"
+  },
+  "Meal_Description": "Beef and Veg Stew"
+},
+{
+  "_id": {
+    "$oid": "67db5a512c757d27f1a5b5c5"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-19T18:59:13.865Z"
+  },
+  "Meal_Description": "Toast and Honey"
+},
+{
+  "_id": {
+    "$oid": "67db5a5f2c757d27f1a5b5c6"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-03-19T18:59:27.395Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67db5a7e2c757d27f1a5b5c7"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-03-19T18:59:58.693Z"
+  },
+  "Meal_Description": "Hot Chocolate"
+},
+{
+  "_id": {
+    "$oid": "67dc0d7c6453af75dbf96c60"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-20T07:43:40.208Z"
+  },
+  "Meal_Description": "Breakfast Casserole"
+},
+{
+  "_id": {
+    "$oid": "67dc55e4ee69a4625bd437f5"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-20T12:52:36.442Z"
+  },
+  "Meal_Description": "Beef Stew and Totts"
+},
+{
+  "_id": {
+    "$oid": "67dc7033dd386dc1679eb715"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-03-20T14:44:51.836Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67dc893fde44e71816c6349d"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "Meal_Description": "Toast and Honey"
+},
+{
+  "_id": {
+    "$oid": "67dce6489f29f4398366745d"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-03-20T23:08:40.709Z"
+  },
+  "Meal_Description": "Frozen Yoghurt"
+},
+{
+  "_id": {
+    "$oid": "67dd96871a15f633f941152c"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-03-21T11:40:39.344Z"
+  },
+  "Meal_Description": "Breakfast Casserole"
+},
+{
+  "_id": {
+    "$oid": "67dd9d2f02021d95ea73ae65"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-21T12:09:03.271Z"
+  },
+  "Meal_Description": "Welsh Rarebit and Crisps"
+},
+{
+  "_id": {
+    "$oid": "67dea6535d42f18f8cf10cf7"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-03-21T19:22:00.000Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "67deb930e1672d6a24539e82"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 350,
+  "Consumption_Date": {
+    "$date": "2025-03-22T08:20:48.326Z"
+  },
+  "Meal_Description": "Breakfast Casserole"
+},
+{
+  "_id": {
+    "$oid": "67df6fa03618890b6da710e6"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-22T21:19:12.770Z"
+  },
+  "Meal_Description": "Fish Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67df6fb43618890b6da710e7"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-03-22T21:19:32.070Z"
+  },
+  "Meal_Description": "Beer"
+},
+{
+  "_id": {
+    "$oid": "67df6fd33618890b6da710e8"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 1000,
+  "Consumption_Date": {
+    "$date": "2025-03-22T21:20:03.751Z"
+  },
+  "Meal_Description": "Pizza"
+},
+{
+  "_id": {
+    "$oid": "67df73243618890b6da710e9"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-22T21:34:12.454Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67e013db7372e50c36319824"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-23T08:59:55.130Z"
+  },
+  "Meal_Description": "Breakfast Casserole"
+},
+{
+  "_id": {
+    "$oid": "67e0636b7372e50c36319825"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-03-23T14:39:23.566Z"
+  },
+  "Meal_Description": "Toast and Honey"
+},
+{
+  "_id": {
+    "$oid": "67e0999e5a08bb227d0a17d1"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-23T18:30:38.261Z"
+  },
+  "Meal_Description": "Fish Sandwich"
+},
+{
+  "_id": {
+    "$oid": "67e09ce75a08bb227d0a17d2"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 100,
+  "Consumption_Date": {
+    "$date": "2025-03-23T18:44:38.999Z"
+  },
+  "Meal_Description": "Snack Bar"
+},
+{
+  "_id": {
+    "$oid": "67e1ef59a4213f4693ebf525"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-24T18:48:41.436Z"
+  },
+  "Meal_Description": "Chicken Salsa and Beans"
+},
+{
+  "_id": {
+    "$oid": "67e1ef6ba4213f4693ebf526"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 600,
+  "Consumption_Date": {
+    "$date": "2025-03-24T18:48:59.886Z"
+  },
+  "Meal_Description": "Double Burger"
+},
+{
+  "_id": {
+    "$oid": "67e1ef7aa4213f4693ebf527"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-03-24T18:49:14.762Z"
+  },
+  "Meal_Description": "Pretzels"
+},
+{
+  "_id": {
+    "$oid": "67e1ef95a4213f4693ebf528"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-24T18:49:41.270Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67e35254436c54afcb1b8d53"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-25T20:03:16.817Z"
+  },
+  "Meal_Description": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67e3525f436c54afcb1b8d54"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 650,
+  "Consumption_Date": {
+    "$date": "2025-03-25T20:03:27.379Z"
+  },
+  "Meal_Description": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "67e3526e436c54afcb1b8d55"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-03-25T20:03:42.644Z"
+  },
+  "Meal_Description": "Biscuits"
+},
+{
+  "_id": {
+    "$oid": "67e3528e436c54afcb1b8d56"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-25T00:00:00.000Z"
+  },
+  "Meal_Description": "Salsa Chicken and beans"
+},
+{
+  "_id": {
+    "$oid": "67e352a6436c54afcb1b8d57"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-03-25T20:04:38.684Z"
+  },
+  "Meal_Description": "Fried Rice Meat and Veg"
+},
+{
+  "_id": {
+    "$oid": "67e489432d491911309a91fc"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-26T18:09:55.539Z"
+  },
+  "Meal_Description": "Chocolate"
+},
+{
+  "_id": {
+    "$oid": "67e4898a2d491911309a91fd"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-03-26T18:11:06.588Z"
+  },
+  "Meal_Description": "Orange Chicken AND Chips"
+},
+{
+  "_id": {
+    "$oid": "67e489ab2d491911309a91fe"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-26T18:11:39.021Z"
+  },
+  "Meal_Description": "Green Beef Enchiladas"
+},
+{
+  "_id": {
+    "$oid": "67e604007e789f0170689f42"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 300,
+  "Consumption_Date": {
+    "$date": "2025-03-27T21:05:52.813Z"
+  },
+  "Meal_Description": "Enchiladas"
+},
+{
+  "_id": {
+    "$oid": "67e604527e789f0170689f43"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-03-27T21:07:14.082Z"
+  },
+  "Meal_Description": "Chips"
+},
+{
+  "_id": {
+    "$oid": "67e6046f7e789f0170689f44"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-27T21:07:43.377Z"
+  },
+  "Meal_Description": "Baked Chicken Wings"
+},
+{
+  "_id": {
+    "$oid": "67e6049d7e789f0170689f45"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 450,
+  "Consumption_Date": {
+    "$date": "2025-03-27T21:08:29.970Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "67e7252c7e789f0170689f4a"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-28T17:39:40.180Z"
+  },
+  "Meal_Description": "Beef Enchilladas"
+},
+{
+  "_id": {
+    "$oid": "67e725497e789f0170689f4b"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-28T17:40:09.085Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "67e7255a7e789f0170689f4c"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 150,
+  "Consumption_Date": {
+    "$date": "2025-03-28T17:40:26.276Z"
+  },
+  "Meal_Description": "Ice Pops"
+},
+{
+  "_id": {
+    "$oid": "67e7256b7e789f0170689f4d"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-03-28T17:40:43.312Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67e72c3af00402d5c2fecf2e"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 550,
+  "Consumption_Date": {
+    "$date": "2025-03-28T18:09:46.330Z"
+  },
+  "Meal_Description": "BBQ Chicken Baguette"
+},
+{
+  "_id": {
+    "$oid": "67e8369012448d026fb97432"
+  },
+  "Meal": "Breakfast",
+  "Calorie_Count": 500,
+  "Consumption_Date": {
+    "$date": "2025-03-29T13:06:08.120Z"
+  },
+  "Meal_Description": "Sausage and Egg Baugette"
+},
+{
+  "_id": {
+    "$oid": "67e8369d12448d026fb97433"
+  },
+  "Meal": "Lunch",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-29T13:06:21.709Z"
+  },
+  "Meal_Description": "Cake"
+},
+{
+  "_id": {
+    "$oid": "67e8378812448d026fb97434"
+  },
+  "Meal": "Snack",
+  "Calorie_Count": 250,
+  "Consumption_Date": {
+    "$date": "2025-03-29T13:10:16.615Z"
+  },
+  "Meal_Description": "Crisps"
+},
+{
+  "_id": {
+    "$oid": "67e8696b4e63c66299f698be"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 400,
+  "Consumption_Date": {
+    "$date": "2025-03-29T16:43:07.586Z"
+  },
+  "Meal_Description": "Welsh Rarebit"
+},
+{
+  "_id": {
+    "$oid": "67e8698f4e63c66299f698bf"
+  },
+  "Meal": "Evening",
+  "Calorie_Count": 200,
+  "Consumption_Date": {
+    "$date": "2025-03-29T16:43:43.097Z"
+  },
+  "Meal_Description": "Cole Slaw and Crisps"
+}]

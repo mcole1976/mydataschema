@@ -1,0 +1,411 @@
+[{
+  "_id": {
+    "$oid": "6777295c1d6def92e4b40ac3"
+  },
+  "Exercise_ID": 935,
+  "Calorie_Count": 500,
+  "Exercise_Date": {
+    "$date": "2025-01-02T18:03:40.041Z"
+  },
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "677729681d6def92e4b40ac5"
+  },
+  "Exercise_ID": 936,
+  "Calorie_Count": 150,
+  "Exercise_Date": {
+    "$date": "2025-01-02T18:03:52.607Z"
+  },
+  "Exercise_Time": 25
+},
+{
+  "_id": {
+    "$oid": "67788d02347d060060edf723"
+  },
+  "Exercise_ID": 937,
+  "Calorie_Count": 500,
+  "Exercise_Date": {
+    "$date": "2025-01-03T19:21:06.313Z"
+  },
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67799b38b2665f4d78d9dc47"
+  },
+  "Exercise_ID": 938,
+  "Calorie_Count": 200,
+  "Exercise_Date": {
+    "$date": "2025-01-04T14:34:00.381Z"
+  },
+  "Exercise_Time": 50
+},
+{
+  "_id": {
+    "$oid": "678af05fd27bce175a392cdf"
+  },
+  "Exercise_ID": 939,
+  "Calorie_Count": 500,
+  "Exercise_Date": {
+    "$date": "2025-01-17T18:05:51.925Z"
+  },
+  "Exercise_Time": 65
+},
+{
+  "_id": {
+    "$oid": "6797872082087f6451ad5689"
+  },
+  "Exercise_ID": 940,
+  "Calorie_Count": 500,
+  "Exercise_Date": {
+    "$date": "2025-01-27T07:16:16.467Z"
+  },
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67997d20cf38ff1cf28a8582"
+  },
+  "Exercise_ID": 941,
+  "Calorie_Count": 500,
+  "Exercise_Date": {
+    "$date": "2025-01-28T18:58:08.272Z"
+  },
+  "Exercise_Time": 550
+},
+{
+  "_id": {
+    "$oid": "67a180c3096555c462da378c"
+  },
+  "Exercise_ID": 942,
+  "Calorie_Count": 600,
+  "Exercise_Date": {
+    "$date": "2025-02-03T20:51:47.997Z"
+  },
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67a4326d000aa632725f7b4c"
+  },
+  "Exercise_ID": 943,
+  "Calorie_Count": 300,
+  "Exercise_Date": {
+    "$date": "2025-02-04T21:54:21.712Z"
+  },
+  "Exercise_Time": 25
+},
+{
+  "_id": {
+    "$oid": "67a43290000aa632725f7b4e"
+  },
+  "Exercise_ID": 944,
+  "Calorie_Count": 550,
+  "Exercise_Date": {
+    "$date": "2025-02-05T21:54:56.031Z"
+  },
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67a57cad1f41eb8387dbcb0f"
+  },
+  "Exercise_ID": 945,
+  "Calorie_Count": 600,
+  "Exercise_Date": {
+    "$date": "2025-02-06T21:23:25.244Z"
+  },
+  "Exercise_Time": 600
+},
+{
+  "_id": {
+    "$oid": "67a6a97dd31660265c59ad0a"
+  },
+  "Exercise_ID": 946,
+  "Calorie_Count": 450,
+  "Exercise_Date": {
+    "$date": "2025-02-07T18:46:53.442Z"
+  },
+  "Exercise_Time": 50
+},
+{
+  "_id": {
+    "$oid": "67a8bd5ad2353131829cf320"
+  },
+  "Exercise_ID": 947,
+  "Calorie_Count": 450,
+  "Exercise_Date": {
+    "$date": "2025-02-09T08:36:10.362Z"
+  },
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67ad3f1fb9402f5c34fcb5bc"
+  },
+  "Exercise_ID": 948,
+  "Calorie_Count": 450,
+  "Exercise_Date": {
+    "$date": "2025-02-12T18:38:55.952Z"
+  },
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67b121662637820f2ca96a72"
+  },
+  "Exercise_ID": 949,
+  "Calorie_Count": 500,
+  "Exercise_Date": {
+    "$date": "2025-02-15T17:21:10.572Z"
+  },
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67bd193e1558960920ec7414"
+  },
+  "Exercise_ID": 950,
+  "Calorie_Count": 550,
+  "Exercise_Date": {
+    "$date": "2025-02-24T19:13:34.441Z"
+  },
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67be5f1af56bd2b2aa2e8c42"
+  },
+  "Exercise_ID": 951,
+  "Calorie_Count": 550,
+  "Exercise_Date": {
+    "$date": "2025-02-25T18:23:54.560Z"
+  },
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67c376c6f56d336c7aaf2e48"
+  },
+  "Exercise_ID": 952,
+  "Calorie_Count": 650,
+  "Exercise_Date": {
+    "$date": "2025-03-01T15:06:14.373Z"
+  },
+  "Exercise_Time": 70
+},
+{
+  "_id": {
+    "$oid": "67c650ba8f7ce415427dc4fe"
+  },
+  "Exercise_ID": 953,
+  "Calorie_Count": 550,
+  "Exercise_Date": {
+    "$date": "2025-03-03T19:00:42.871Z"
+  },
+  "Exercise_Time": 65
+},
+{
+  "_id": {
+    "$oid": "67c7951b823b2b58bcf43abd"
+  },
+  "Exercise_ID": 954,
+  "Calorie_Count": 450,
+  "Exercise_Date": {
+    "$date": "2025-03-04T18:04:43.735Z"
+  },
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67c8fd107a47b9484bd26ea1"
+  },
+  "Exercise_ID": 955,
+  "Calorie_Count": 600,
+  "Exercise_Date": {
+    "$date": "2025-03-05T19:40:32.176Z"
+  },
+  "Exercise_Time": 60,
+  "Consumption_Date": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ca4c7677571e6daa9878ee"
+  },
+  "Exercise_ID": 956,
+  "Calorie_Count": 500,
+  "Exercise_Date": {
+    "$date": "2025-03-06T19:31:34.442Z"
+  },
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67d0dc9f3d48ee34bcfeea1d"
+  },
+  "Exercise_ID": 957,
+  "Calorie_Count": 500,
+  "Exercise_Date": {
+    "$date": "2025-03-11T20:00:15.449Z"
+  },
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67d22f3c073c84d2986f5138"
+  },
+  "Exercise_ID": 958,
+  "Calorie_Count": 550,
+  "Exercise_Date": {
+    "$date": "2025-03-12T20:05:00.480Z"
+  },
+  "Exercise_Time": 60,
+  "Consumption_Date": {
+    "$date": "2025-03-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d3666eca3b6af5e1fb2596"
+  },
+  "Exercise_ID": 959,
+  "Calorie_Count": 550,
+  "Exercise_Date": {
+    "$date": "2025-03-13T18:12:46.560Z"
+  },
+  "Exercise_Time": 60,
+  "Consumption_Date": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d96bf4fc75b5fb47040fb0"
+  },
+  "Exercise_ID": 960,
+  "Calorie_Count": 500,
+  "Exercise_Date": {
+    "$date": "2025-03-18T07:49:56.920Z"
+  },
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67d987870765b7a2442ebba8"
+  },
+  "Exercise_ID": 961,
+  "Calorie_Count": 250,
+  "Exercise_Date": {
+    "$date": "2025-03-18T09:47:35.992Z"
+  },
+  "Exercise_Time": 35
+},
+{
+  "_id": {
+    "$oid": "67db7c117306404fc8775664"
+  },
+  "Exercise_ID": 962,
+  "Calorie_Count": 250,
+  "Exercise_Date": {
+    "$date": "2025-03-19T21:23:13.528Z"
+  },
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "67db7c1d7306404fc8775666"
+  },
+  "Exercise_ID": 963,
+  "Calorie_Count": 100,
+  "Exercise_Date": {
+    "$date": "2025-03-19T21:23:25.221Z"
+  },
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "67dc0fd06453af75dbf96c62"
+  },
+  "Exercise_ID": 964,
+  "Calorie_Count": 150,
+  "Exercise_Date": {
+    "$date": "2025-03-20T07:53:36.411Z"
+  },
+  "Exercise_Time": 20,
+  "Consumption_Date": {
+    "$date": "2025-03-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67deac7a31247278d2806fde"
+  },
+  "Exercise_ID": 965,
+  "Calorie_Count": 200,
+  "Exercise_Date": {
+    "$date": "2025-03-22T07:26:34.344Z"
+  },
+  "Exercise_Time": 20
+},
+{
+  "_id": {
+    "$oid": "67deb0f731247278d2806fe0"
+  },
+  "Exercise_ID": 966,
+  "Calorie_Count": 450,
+  "Exercise_Date": {
+    "$date": "2025-03-22T07:45:43.709Z"
+  },
+  "Exercise_Time": 50,
+  "Consumption_Date": {
+    "$date": "2025-03-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e1fd41436c54afcb1b8d52"
+  },
+  "Exercise_ID": 967,
+  "Calorie_Count": 500,
+  "Exercise_Date": {
+    "$date": "2025-03-24T19:48:01.121Z"
+  },
+  "Exercise_Time": 60
+},
+{
+  "_id": {
+    "$oid": "67e35373436c54afcb1b8d59"
+  },
+  "Exercise_ID": 968,
+  "Calorie_Count": 600,
+  "Exercise_Date": {
+    "$date": "2025-03-25T20:08:03.298Z"
+  },
+  "Exercise_Time": 55
+},
+{
+  "_id": {
+    "$oid": "67e605a77e789f0170689f47"
+  },
+  "Exercise_ID": 969,
+  "Calorie_Count": 650,
+  "Exercise_Date": {
+    "$date": "2025-03-27T21:12:55.330Z"
+  },
+  "Exercise_Time": 80
+},
+{
+  "_id": {
+    "$oid": "67e605bb7e789f0170689f49"
+  },
+  "Exercise_ID": 970,
+  "Calorie_Count": 250,
+  "Exercise_Date": {
+    "$date": "2025-03-27T21:13:15.722Z"
+  },
+  "Exercise_Time": 60
+}]
